@@ -1,0 +1,677 @@
+{
+  "scheme_name": "Hdfc Equity Fund Direct Growth",
+  "source_file": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_equity_fund_direct_growth.html",
+  "structure": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "HDFC Flexi Cap Direct Plan Growth",
+        "tag": "h1"
+      },
+      {
+        "level": 2,
+        "text": "Holdings (64)",
+        "tag": "h2"
+      },
+      {
+        "level": 2,
+        "text": "Understand terms",
+        "tag": "h2"
+      },
+      {
+        "level": 2,
+        "text": "Understand terms",
+        "tag": "h2"
+      },
+      {
+        "level": 3,
+        "text": "Return calculator",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Minimum investments",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Returns and rankings",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Exit Load",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Exit load, stamp duty and tax",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Compare similar funds",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Fund management",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "DMDhruv MuchhalJun 2023- PresentView details",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "AGAmit GanatraFeb 2026- PresentView details",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "AboutHDFC Flexi Cap Direct Plan Growth",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "AboutHDFC Flexi Cap Direct Plan Growth",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Fund house",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Fund house",
+        "tag": "h3"
+      },
+      {
+        "level": 4,
+        "text": "Exit load",
+        "tag": "h4"
+      },
+      {
+        "level": 4,
+        "text": "Stamp duty on investment:0.005% (from July 1st, 2020)",
+        "tag": "h4"
+      },
+      {
+        "level": 4,
+        "text": "Tax implication",
+        "tag": "h4"
+      },
+      {
+        "level": 4,
+        "text": "Investment Objective",
+        "tag": "h4"
+      },
+      {
+        "level": 5,
+        "text": "Annualised returns",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Absolute returns",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Expense ratio",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Tax",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Exit load",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Stamp duty",
+        "tag": "h5"
+      }
+    ],
+    "lists": [],
+    "tables": [
+      {
+        "headers": [
+          "Over the past",
+          "Total investment",
+          "Would've become",
+          "Historic returns",
+          "Returns"
+        ],
+        "rows": [
+          [
+            "1 year",
+            "₹60,000",
+            "₹58,925",
+            "",
+            "-1.79%"
+          ],
+          [
+            "3 years",
+            "₹1,80,000",
+            "₹2,07,812",
+            "",
+            "+15.45%"
+          ],
+          [
+            "5 years",
+            "₹3,00,000",
+            "₹4,42,784",
+            "",
+            "+47.59%"
+          ],
+          [
+            "10 years",
+            "₹6,00,000",
+            "₹14,80,009",
+            "",
+            "+146.67%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Name",
+          "Sector",
+          "Instruments",
+          "Assets"
+        ],
+        "rows": [
+          [
+            "ICICI Bank Ltd.",
+            "Financial",
+            "Equity",
+            "8.82%"
+          ],
+          [
+            "HDFC Bank Ltd.",
+            "Financial",
+            "Equity",
+            "7.04%"
+          ],
+          [
+            "Axis Bank Ltd.",
+            "Financial",
+            "Equity",
+            "6.87%"
+          ],
+          [
+            "State Bank of India",
+            "Financial",
+            "Equity",
+            "4.75%"
+          ],
+          [
+            "SBI Life Insurance Company Ltd.",
+            "Insurance",
+            "Equity",
+            "3.89%"
+          ],
+          [
+            "Kotak Mahindra Bank Ltd.",
+            "Financial",
+            "Equity",
+            "3.52%"
+          ],
+          [
+            "Bharti Airtel Ltd.",
+            "Communication",
+            "Equity",
+            "3.19%"
+          ],
+          [
+            "HCL Technologies Ltd.",
+            "Technology",
+            "Equity",
+            "3.12%"
+          ],
+          [
+            "Larsen & Toubro Ltd.",
+            "Construction",
+            "Equity",
+            "3.09%"
+          ],
+          [
+            "Power Grid Corporation Of India Ltd.",
+            "Energy",
+            "Equity",
+            "2.95%"
+          ],
+          [
+            "Maruti Suzuki India Ltd.",
+            "Automobile",
+            "Equity",
+            "2.83%"
+          ],
+          [
+            "Cipla Ltd.",
+            "Healthcare",
+            "Equity",
+            "2.81%"
+          ],
+          [
+            "Eicher Motors Ltd.",
+            "Automobile",
+            "Equity",
+            "2.51%"
+          ],
+          [
+            "Interglobe Aviation Ltd.",
+            "Services",
+            "Equity",
+            "2.16%"
+          ],
+          [
+            "Eternal Ltd.",
+            "Services",
+            "Equity",
+            "2.09%"
+          ],
+          [
+            "Bajaj Auto Ltd.",
+            "Automobile",
+            "Equity",
+            "1.92%"
+          ],
+          [
+            "Reliance Industries Ltd.",
+            "Energy",
+            "Equity",
+            "1.88%"
+          ],
+          [
+            "Infosys Ltd.",
+            "Technology",
+            "Equity",
+            "1.83%"
+          ],
+          [
+            "Nexus Select Trust",
+            "Construction",
+            "REITs",
+            "1.82%"
+          ],
+          [
+            "JSW Steel Ltd.",
+            "Metals & Mining",
+            "Equity",
+            "1.75%"
+          ],
+          [
+            "Hyundai Motor India Ltd.",
+            "Automobile",
+            "Equity",
+            "1.75%"
+          ],
+          [
+            "Tata Steel Ltd.",
+            "Metals & Mining",
+            "Equity",
+            "1.59%"
+          ],
+          [
+            "Max Healthcare Institute Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.42%"
+          ],
+          [
+            "Bank Of Baroda",
+            "Financial",
+            "Equity",
+            "1.41%"
+          ],
+          [
+            "Oil And Natural Gas Corporation Ltd.",
+            "Energy",
+            "Equity",
+            "1.36%"
+          ],
+          [
+            "Piramal Pharma Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.35%"
+          ],
+          [
+            "Persistent Systems Ltd.",
+            "Technology",
+            "Equity",
+            "1.20%"
+          ],
+          [
+            "Divi's Laboratories Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.12%"
+          ],
+          [
+            "Lupin Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.06%"
+          ],
+          [
+            "Bosch Ltd.",
+            "Automobile",
+            "Equity",
+            "0.96%"
+          ],
+          [
+            "PB Fintech Ltd.",
+            "Services",
+            "Equity",
+            "0.89%"
+          ],
+          [
+            "FSN E-Commerce Ventures Ltd.",
+            "Services",
+            "Equity",
+            "0.80%"
+          ],
+          [
+            "United Spirits Ltd.",
+            "Consumer Staples",
+            "Equity",
+            "0.77%"
+          ],
+          [
+            "Vishal Mega Mart Ltd.",
+            "Services",
+            "Equity",
+            "0.67%"
+          ],
+          [
+            "Havells India Ltd.",
+            "Capital Goods",
+            "Equity",
+            "0.64%"
+          ],
+          [
+            "Embassy Office Parks REIT",
+            "Construction",
+            "REITs",
+            "0.60%"
+          ],
+          [
+            "Dr. Lal Pathlabs Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.60%"
+          ],
+          [
+            "Apollo Hospitals Enterprise Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.59%"
+          ],
+          [
+            "Varroc Engineering Ltd.",
+            "Automobile",
+            "Equity",
+            "0.55%"
+          ],
+          [
+            "Nuvoco Vistas Corporation Ltd.",
+            "Construction",
+            "Equity",
+            "0.54%"
+          ],
+          [
+            "Anthem Biosciences Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.54%"
+          ],
+          [
+            "Kalpataru Projects International Ltd.",
+            "Capital Goods",
+            "Equity",
+            "0.50%"
+          ],
+          [
+            "Tata Consultancy Services Ltd.",
+            "Technology",
+            "Equity",
+            "0.49%"
+          ],
+          [
+            "CIE Automotive India Ltd.",
+            "Metals & Mining",
+            "Equity",
+            "0.49%"
+          ],
+          [
+            "Cyient Ltd.",
+            "Technology",
+            "Equity",
+            "0.45%"
+          ],
+          [
+            "The Ramco Cements Ltd.",
+            "Construction",
+            "Equity",
+            "0.40%"
+          ],
+          [
+            "Escorts Kubota Ltd.",
+            "Automobile",
+            "Equity",
+            "0.36%"
+          ],
+          [
+            "Crompton Greaves Consumer Electricals Ltd.",
+            "Consumer Discretionary",
+            "Equity",
+            "0.35%"
+          ],
+          [
+            "Ashok Leyland Ltd.",
+            "Automobile",
+            "Equity",
+            "0.35%"
+          ],
+          [
+            "Dixon Technologies (India) Ltd.",
+            "Capital Goods",
+            "Equity",
+            "0.33%"
+          ],
+          [
+            "Sapphire Foods India Ltd.",
+            "Services",
+            "Equity",
+            "0.33%"
+          ],
+          [
+            "BSE Ltd.",
+            "Services",
+            "Equity",
+            "0.32%"
+          ],
+          [
+            "GOI",
+            "Sovereign",
+            "GOI Sec",
+            "0.32%"
+          ],
+          [
+            "Metropolis Healthcare Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.31%"
+          ],
+          [
+            "JK Lakshmi Cement Ltd.",
+            "Construction",
+            "Equity",
+            "0.31%"
+          ],
+          [
+            "Swiggy Ltd.",
+            "Services",
+            "Equity",
+            "0.31%"
+          ],
+          [
+            "Aster DM Healthcare Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.23%"
+          ],
+          [
+            "Restaurant Brands Asia Ltd.",
+            "Services",
+            "Equity",
+            "0.21%"
+          ],
+          [
+            "Multi Commodity Exchange Of India Ltd.",
+            "Services",
+            "Equity",
+            "0.20%"
+          ],
+          [
+            "Birlasoft Ltd.",
+            "Technology",
+            "Equity",
+            "0.16%"
+          ],
+          [
+            "Cohance Lifesciences Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.13%"
+          ],
+          [
+            "GOI",
+            "Sovereign",
+            "GOI Sec",
+            "0.12%"
+          ],
+          [
+            "GOI",
+            "Sovereign",
+            "GOI Sec",
+            "0.11%"
+          ],
+          [
+            "Ramco Systems Ltd.",
+            "Technology",
+            "Equity",
+            "0.00%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Name",
+          "3Y",
+          "5Y",
+          "10Y",
+          "All"
+        ],
+        "rows": [
+          [
+            "Fund returns",
+            "+19.4%",
+            "+20.6%",
+            "+17.5%",
+            "+16.0%"
+          ],
+          [
+            "Category average (Equity Flexi Cap)",
+            "+16.0%",
+            "+15.6%",
+            "+13.5%",
+            "--"
+          ],
+          [
+            "Rank (Equity Flexi Cap)",
+            "12",
+            "3",
+            "2",
+            "--"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "",
+          "Name",
+          "1Y",
+          "3Y",
+          "Fund Size(Cr)"
+        ],
+        "rows": [
+          [
+            "",
+            "JM Flexicap Fund Direct Plan Growth",
+            "+0.90%",
+            "+19.70%",
+            "4,504.47"
+          ],
+          [
+            "",
+            "HDFC Flexi Cap Direct Plan Growth",
+            "+2.73%",
+            "+19.38%",
+            "91,334.91"
+          ],
+          [
+            "",
+            "HSBC Flexi Cap Fund Direct Growth",
+            "+9.17%",
+            "+18.97%",
+            "4,724.03"
+          ],
+          [
+            "",
+            "Parag Parikh Flexi Cap Fund Direct Growth",
+            "+3.70%",
+            "+17.60%",
+            "1,28,966.48"
+          ],
+          [
+            "",
+            "Franklin India Flexi Cap Fund Direct Growth",
+            "+0.17%",
+            "+16.83%",
+            "17,535.63"
+          ],
+          [
+            "Compare"
+          ]
+        ]
+      }
+    ],
+    "paragraphs": [
+      "Average of the yearly returns of a mutual fund over a given period.",
+      "The total return of a mutual fund over a given period.",
+      "A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.",
+      "A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.",
+      "A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.",
+      "A form of tax payable for the purchase or sale of an asset or security."
+    ]
+  },
+  "cleaned_text": "HDFC Flexi Cap Direct Plan Growth\n\n Holdings (64)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AGAmit GanatraFeb 2026- PresentView details\n\n AboutHDFC Flexi Cap Direct Plan Growth\n\n AboutHDFC Flexi Cap Direct Plan Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0. 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹58,925   -1. 79%\n\n3 years  ₹1,80,000  ₹2,07,812   15. 45%\n\n5 years  ₹3,00,000  ₹4,42,784   47. 59%\n\n10 years  ₹6,00,000  ₹14,80,009   146. 67%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd.  Financial  Equity  8. 82%\n\nHDFC Bank Ltd.  Financial  Equity  7. 04%\n\nAxis Bank Ltd.  Financial  Equity  6. 87%\n\nState Bank of India  Financial  Equity  4. 75%\n\nSBI Life Insurance Company Ltd.  Insurance  Equity  3. 89%\n\nKotak Mahindra Bank Ltd.  Financial  Equity  3. 52%\n\nBharti Airtel Ltd.  Communication  Equity  3. 19%\n\nHCL Technologies Ltd.  Technology  Equity  3. 12%\n\nLarsen  Toubro Ltd.  Construction  Equity  3. 09%\n\nPower Grid Corporation Of India Ltd.  Energy  Equity  2. 95%\n\nMaruti Suzuki India Ltd.  Automobile  Equity  2. 83%\n\nCipla Ltd.  Healthcare  Equity  2. 81%\n\nEicher Motors Ltd.  Automobile  Equity  2. 51%\n\nInterglobe Aviation Ltd.  Services  Equity  2. 16%\n\nEternal Ltd.  Services  Equity  2. 09%\n\nBajaj Auto Ltd.  Automobile  Equity  1. 92%\n\nReliance Industries Ltd.  Energy  Equity  1. 88%\n\nInfosys Ltd.  Technology  Equity  1. 83%\n\nNexus Select Trust  Construction  REITs  1. 82%\n\nJSW Steel Ltd.  Metals  Mining  Equity  1. 75%\n\nHyundai Motor India Ltd.  Automobile  Equity  1. 75%\n\nTata Steel Ltd.  Metals  Mining  Equity  1. 59%\n\nMax Healthcare Institute Ltd. 42%\n\nBank Of Baroda  Financial  Equity  1. 41%\n\nOil And Natural Gas Corporation Ltd.  Energy  Equity  1. 36%\n\nPiramal Pharma Ltd. 35%\n\nPersistent Systems Ltd.  Technology  Equity  1. 20%\n\nDivis Laboratories Ltd. 12%\n\nLupin Ltd. 06%\n\nBosch Ltd. 96%\n\nPB Fintech Ltd. 89%\n\nFSN E-Commerce Ventures Ltd. 80%\n\nUnited Spirits Ltd.  Consumer Staples  Equity  0. 77%\n\nVishal Mega Mart Ltd. 67%\n\nHavells India Ltd. 64%\n\nEmbassy Office Parks REIT  Construction  REITs  0. 60%\n\nDr. Lal Pathlabs Ltd. 60%\n\nApollo Hospitals Enterprise Ltd. 59%\n\nVarroc Engineering Ltd. 55%\n\nNuvoco Vistas Corporation Ltd. 54%\n\nAnthem Biosciences Ltd. 54%\n\nKalpataru Projects International Ltd. 50%\n\nTata Consultancy Services Ltd. 49%\n\nCIE Automotive India Ltd.  Metals  Mining  Equity  0. 49%\n\nCyient Ltd. 45%\n\nThe Ramco Cements Ltd. 40%\n\nEscorts Kubota Ltd. 36%\n\nCrompton Greaves Consumer Electricals Ltd.  Consumer Discretionary  Equity  0. 35%\n\nAshok Leyland Ltd. 35%\n\nDixon Technologies (India) Ltd. 33%\n\nSapphire Foods India Ltd. 33%\n\nBSE Ltd. 32%\n\nGOI  Sovereign  GOI Sec  0. 32%\n\nMetropolis Healthcare Ltd. 31%\n\nJK Lakshmi Cement Ltd. 31%\n\nSwiggy Ltd. 31%\n\nAster DM Healthcare Ltd. 23%\n\nRestaurant Brands Asia Ltd. 21%\n\nMulti Commodity Exchange Of India Ltd. 20%\n\nBirlasoft Ltd. 16%\n\nCohance Lifesciences Ltd. 13%\n\nGOI  Sovereign  GOI Sec  0. 12%\n\nGOI  Sovereign  GOI Sec  0. 11%\n\nRamco Systems Ltd. 00%\n\nName  3Y  5Y  10Y  All\n\nFund returns  19. 4%  20. 6%  17. 5%  16. 0%\n\nCategory average (Equity Flexi Cap)  16. 0%  15. 6%  13. 5%  --\n\nRank (Equity Flexi Cap)  12  3  2  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n JM Flexicap Fund Direct Plan Growth  0. 90%  19. 70%  4,504. 47\n\n HDFC Flexi Cap Direct Plan Growth  2. 73%  19. 38%  91,334. 91\n\n HSBC Flexi Cap Fund Direct Growth  9. 17%  18. 97%  4,724. 03\n\n Parag Parikh Flexi Cap Fund Direct Growth  3. 70%  17. 60%  1,28,966. 48\n\n Franklin India Flexi Cap Fund Direct Growth  0. 17%  16. 83%  17,535. 63\n\nCompare",
+  "statistics": {
+    "original_size": 395034,
+    "cleaned_size": 3811,
+    "headings_count": 27,
+    "paragraphs_count": 6,
+    "lists_count": 0,
+    "tables_count": 4
+  }
+}

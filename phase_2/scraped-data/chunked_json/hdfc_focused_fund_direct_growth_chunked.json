@@ -1,0 +1,149 @@
+{
+  "scheme_name": "Hdfc Focused Fund Direct Growth",
+  "source_file": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+  "chunk_config": {
+    "chunk_size": 800,
+    "overlap": 100,
+    "min_chunk_size": 100
+  },
+  "total_chunks": 3,
+  "chunks": [
+    {
+      "text": "HDFC Focused Fund Direct Growth\n\n Holdings (31)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AGAmit GanatraFeb 2026- PresentView details\n\n AboutHDFC Focused Fund Direct Growth\n\n AboutHDFC Focused Fund Direct Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹58,360   -2 73%\n\n3 years  ₹1,80,000  ₹2,06,405   14 67%\n\n5 years  ₹3,00,000  ₹4,45,376   48 46%\n\n10 years  ₹6,00,000  ₹14,45,975   141 00%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd Financial  Equity  9",
+      "metadata": {
+        "scheme_name": "Hdfc Focused Fund Direct Growth",
+        "source_file": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+        "chunk_size_config": {
+          "chunk_size": 800,
+          "overlap": 100,
+          "min_chunk_size": 100
+        },
+        "section_header": "Introduction",
+        "chunk_type": "subsection",
+        "subchunk_id": 0,
+        "chunk_index": 0,
+        "total_chunks": 3,
+        "chunk_length": 791,
+        "word_count": 103,
+        "created_at": "2026-05-08T22:59:08.243198",
+        "source_url": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+        "document_type": "json",
+        "source_domain": "",
+        "has_numbers": true,
+        "has_currency": true,
+        "has_percentage": true,
+        "sentence_count": 1,
+        "avg_sentence_length": 103.0,
+        "chunk_id": "hdfc_focused_fund_direct_growth_subsection_0",
+        "validation": {
+          "is_valid": false,
+          "quality_score": 0.8
+        }
+      },
+      "start_position": 0,
+      "end_position": 791
+    },
+    {
+      "text": "00%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd Financial  Equity  9 33%\n\nHDFC Bank Ltd Financial  Equity  8 63%\n\nAxis Bank Ltd Financial  Equity  7 21%\n\nState Bank of India  Financial  Equity  5 72%\n\nKotak Mahindra Bank Ltd Financial  Equity  5 52%\n\nHCL Technologies Ltd Technology  Equity  4 47%\n\nBharti Airtel Ltd Communication  Equity  3 77%\n\nCipla Ltd Healthcare  Equity  3 68%\n\nMaruti Suzuki India Ltd Automobile  Equity  3 58%\n\nSBI Life Insurance Company Ltd Insurance  Equity  3 57%\n\nPower Grid Corporation Of India Ltd Energy  Equity  3 31%\n\nEternal Ltd Services  Equity  3 29%\n\nEicher Motors Ltd Automobile  Equity  3 25%\n\nInterglobe Aviation Ltd Services  Equity  2 91%\n\nHavells India Ltd Capital Goods  Equity  2 64%\n\nTata Steel Ltd Metals  Mining  Equity  2 54%\n\nKarur Vysya Bank Ltd Financial  Equity  2",
+      "metadata": {
+        "scheme_name": "Hdfc Focused Fund Direct Growth",
+        "source_file": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+        "chunk_size_config": {
+          "chunk_size": 800,
+          "overlap": 100,
+          "min_chunk_size": 100
+        },
+        "section_header": "Introduction",
+        "chunk_type": "subsection",
+        "subchunk_id": 1,
+        "chunk_index": 1,
+        "total_chunks": 3,
+        "chunk_length": 824,
+        "word_count": 132,
+        "created_at": "2026-05-08T22:59:08.243240",
+        "source_url": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+        "document_type": "json",
+        "source_domain": "",
+        "has_numbers": true,
+        "has_currency": false,
+        "has_percentage": true,
+        "sentence_count": 1,
+        "avg_sentence_length": 132.0,
+        "chunk_id": "hdfc_focused_fund_direct_growth_subsection_1",
+        "validation": {
+          "is_valid": false,
+          "quality_score": 0.8
+        }
+      },
+      "start_position": 791,
+      "end_position": 1615
+    },
+    {
+      "text": "64%\n\nTata Steel Ltd Metals  Mining  Equity  2 54%\n\nKarur Vysya Bank Ltd Financial  Equity  2 25%\n\nFSN E-Commerce Ventures Ltd Services  Equity  1 94%\n\nNexus Select Trust  Construction  REITs  1 87%\n\nBajaj Auto Ltd 70%\n\nPiramal Pharma Ltd Healthcare  Equity  1 70%\n\nHyundai Motor India Ltd 62%\n\nChalet Hotels Ltd Services  Equity  1 59%\n\nEscorts Kubota Ltd 53%\n\nAmber Enterprises India Ltd Consumer Discretionary  Equity  1 40%\n\nCIE Automotive India Ltd Metals  Mining  Equity  1 31%\n\nMetropolis Healthcare Ltd Healthcare  Equity  1 22%\n\nBosch Ltd 19%\n\nSapphire Foods India Ltd Services  Equity  0 59%\n\nRestaurant Brands Asia Ltd Services  Equity  0 53%\n\nGOI  Sovereign  GOI Sec  0 21%\n\nName  3Y  5Y  10Y  All\n\nFund returns  19 0%  21 9%  16 1%  14 8%\n\nCategory average (Equity Flexi Cap)  16 0%  15 6%  13",
+      "metadata": {
+        "scheme_name": "Hdfc Focused Fund Direct Growth",
+        "source_file": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+        "chunk_size_config": {
+          "chunk_size": 800,
+          "overlap": 100,
+          "min_chunk_size": 100
+        },
+        "section_header": "Introduction",
+        "chunk_type": "subsection",
+        "subchunk_id": 2,
+        "chunk_index": 2,
+        "total_chunks": 3,
+        "chunk_length": 805,
+        "word_count": 134,
+        "created_at": "2026-05-08T22:59:08.243262",
+        "source_url": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_focused_fund_direct_growth.html",
+        "document_type": "json",
+        "source_domain": "",
+        "has_numbers": true,
+        "has_currency": false,
+        "has_percentage": true,
+        "sentence_count": 1,
+        "avg_sentence_length": 134.0,
+        "chunk_id": "hdfc_focused_fund_direct_growth_subsection_2",
+        "validation": {
+          "is_valid": false,
+          "quality_score": 0.8
+        }
+      },
+      "start_position": 1615,
+      "end_position": 2420
+    }
+  ],
+  "validation_summary": {
+    "total_chunks": 3,
+    "valid_chunks": 0,
+    "invalid_chunks": 3,
+    "average_quality_score": 0.8000000000000002
+  },
+  "validation_results": [
+    {
+      "chunk_id": "hdfc_focused_fund_direct_growth_subsection_0",
+      "is_valid": false,
+      "issues": [
+        "Chunk has excessive repetition"
+      ],
+      "quality_score": 0.8
+    },
+    {
+      "chunk_id": "hdfc_focused_fund_direct_growth_subsection_1",
+      "is_valid": false,
+      "issues": [
+        "Chunk has excessive repetition"
+      ],
+      "quality_score": 0.8
+    },
+    {
+      "chunk_id": "hdfc_focused_fund_direct_growth_subsection_2",
+      "is_valid": false,
+      "issues": [
+        "Chunk has excessive repetition"
+      ],
+      "quality_score": 0.8
+    }
+  ]
+}

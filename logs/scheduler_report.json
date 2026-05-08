@@ -1,0 +1,32 @@
+{
+  "started_at": "2026-05-08T22:59:07.737347",
+  "steps": {
+    "scrape": {
+      "status": "skipped"
+    },
+    "extract": {
+      "status": "ok",
+      "returncode": 0,
+      "stdout": "============================================================\nContent Extraction Pipeline - Phase 2.2\n============================================================\n\nInput directory: C:\\milestone 2\\phase_2\\scraped-data\\raw_html\nOutput directory: C:\\milestone 2\\phase_2\\scraped-data\\extracted_json\n\nProcessing: hdfc_elss_tax_saver_fund_direct_plan_growth.html\n  Saved: hdfc_elss_tax_saver_fund_direct_plan_growth.json\n  Size: 3693 characters\nProcessing: hdfc_equity_fund_direct_growth.html\n  Saved: hdfc_equity_fund_direct_growth.json\n  Size: 3811 characters\nProcessing: hdfc_focused_fund_direct_growth.html\n  Saved: hdfc_focused_fund_direct_growth.json\n  Size: 2774 characters\nProcessing: hdfc_large_cap_fund_direct_growth.html\n  Saved: hdfc_large_cap_fund_direct_growth.json\n  Size: 3491 characters\nProcessing: hdfc_mid_cap_fund_direct_growth.html\n  Saved: hdfc_mid_cap_fund_direct_growth.json\n  Size: 4526 characters\n\n============================================================\nProcessing Complete\n============================================================\nTotal files processed: 5\nTotal original size: 1,932,454 characters\nTotal cleaned size: 18,295 characters\nReduction: 99.1%\n\nExtracted JSON files saved to: C:\\milestone 2\\phase_2\\scraped-data\\extracted_json\n",
+      "stderr": "",
+      "duration": 0.43
+    },
+    "chunk": {
+      "status": "ok",
+      "returncode": 0,
+      "stdout": "============================================================\nDocument Chunking Pipeline - Phase 2.3\n============================================================\n\nInput directory: C:\\milestone 2\\phase_2\\scraped-data\\extracted_json\nOutput directory: C:\\milestone 2\\phase_2\\scraped-data\\chunked_json\n\nProcessing: hdfc_elss_tax_saver_fund_direct_plan_growth.json\n  Saved: hdfc_elss_tax_saver_fund_direct_plan_growth_chunked.json\n  Chunks: 4\n  Valid chunks: 0\n  Avg quality: 0.80\nProcessing: hdfc_equity_fund_direct_growth.json\n  Saved: hdfc_equity_fund_direct_growth_chunked.json\n  Chunks: 4\n  Valid chunks: 1\n  Avg quality: 0.85\nProcessing: hdfc_focused_fund_direct_growth.json\n  Saved: hdfc_focused_fund_direct_growth_chunked.json\n  Chunks: 3\n  Valid chunks: 0\n  Avg quality: 0.80\nProcessing: hdfc_large_cap_fund_direct_growth.json\n  Saved: hdfc_large_cap_fund_direct_growth_chunked.json\n  Chunks: 4\n  Valid chunks: 0\n  Avg quality: 0.80\nProcessing: hdfc_mid_cap_fund_direct_growth.json\n  Saved: hdfc_mid_cap_fund_direct_growth_chunked.json\n  Chunks: 5\n  Valid chunks: 0\n  Avg quality: 0.80\n\n============================================================\nProcessing Complete\n============================================================\nTotal files processed: 5\nTotal chunks generated: 20\nValid chunks: 1\nInvalid chunks: 19\nAverage quality score: 0.81\n\nChunked JSON files saved to: C:\\milestone 2\\phase_2\\scraped-data\\chunked_json\n",
+      "stderr": "",
+      "duration": 0.08
+    },
+    "embed": {
+      "status": "ok",
+      "returncode": 0,
+      "stdout": "============================================================\nEmbedding Generation and Indexing Pipeline\n============================================================\n\nModel: BAAI/bge-small-en-v1.5\nEmbedding dimension: 384\nMax sequence length: 512\n\nInput directory: C:\\milestone 2\\phase_2\\scraped-data\\chunked_json\nVector DB directory: C:\\milestone 2\\phase_3\\vector_db\n\nProcessing: hdfc_elss_tax_saver_fund_direct_plan_growth_chunked.json\n  Chunks processed: 4\n  Embedding dim: 384\nProcessing: hdfc_equity_fund_direct_growth_chunked.json\n  Chunks processed: 4\n  Embedding dim: 384\nProcessing: hdfc_focused_fund_direct_growth_chunked.json\n  Chunks processed: 3\n  Embedding dim: 384\nProcessing: hdfc_large_cap_fund_direct_growth_chunked.json\n  Chunks processed: 4\n  Embedding dim: 384\nProcessing: hdfc_mid_cap_fund_direct_growth_chunked.json\n  Chunks processed: 5\n  Embedding dim: 384\n\n============================================================\nProcessing Complete\n============================================================\nFiles processed: 5\nTotal chunks indexed: 20\nTotal vectors in DB: 20\n\nVector database saved to: C:\\milestone 2\\phase_3\\vector_db\n",
+      "stderr": "Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\n\nLoading weights:   0%|          | 0/199 [00:00<?, ?it/s]\nLoading weights: 100%|██████████| 199/199 [00:00<00:00, 5238.08it/s]\nC:\\milestone 2\\phase_3\\3.3-embedding-generation\\src\\embedding_generator.py:24: FutureWarning: The `get_sentence_embedding_dimension` method has been renamed to `get_embedding_dimension`.\n  self.embedding_dim = self.model.get_sentence_embedding_dimension()\n",
+      "duration": 18.15
+    }
+  },
+  "status": "success",
+  "duration_seconds": 18.68,
+  "finished_at": "2026-05-08T22:59:26.417954"
+}

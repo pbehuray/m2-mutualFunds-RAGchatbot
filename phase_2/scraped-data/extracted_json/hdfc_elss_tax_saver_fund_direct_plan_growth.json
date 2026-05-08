@@ -1,0 +1,629 @@
+{
+  "scheme_name": "Hdfc Elss Tax Saver Fund Direct Plan Growth",
+  "source_file": "C:\\milestone 2\\phase_2\\scraped-data\\raw_html\\hdfc_elss_tax_saver_fund_direct_plan_growth.html",
+  "structure": {
+    "headings": [
+      {
+        "level": 1,
+        "text": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+        "tag": "h1"
+      },
+      {
+        "level": 2,
+        "text": "Holdings (56)",
+        "tag": "h2"
+      },
+      {
+        "level": 2,
+        "text": "Understand terms",
+        "tag": "h2"
+      },
+      {
+        "level": 2,
+        "text": "Understand terms",
+        "tag": "h2"
+      },
+      {
+        "level": 3,
+        "text": "Return calculator",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Minimum investments",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Returns and rankings",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Exit Load",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Exit load, stamp duty and tax",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Compare similar funds",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Fund management",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "AKAmar KalkundrikarDec 2025- PresentView details",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "DMDhruv MuchhalJun 2023- PresentView details",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "AboutHDFC ELSS Tax Saver Fund Direct Plan Growth",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "AboutHDFC ELSS Tax Saver Fund Direct Plan Growth",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Fund house",
+        "tag": "h3"
+      },
+      {
+        "level": 3,
+        "text": "Fund house",
+        "tag": "h3"
+      },
+      {
+        "level": 4,
+        "text": "Exit load",
+        "tag": "h4"
+      },
+      {
+        "level": 4,
+        "text": "Stamp duty on investment:0.005% (from July 1st, 2020)",
+        "tag": "h4"
+      },
+      {
+        "level": 4,
+        "text": "Tax implication",
+        "tag": "h4"
+      },
+      {
+        "level": 4,
+        "text": "Investment Objective",
+        "tag": "h4"
+      },
+      {
+        "level": 5,
+        "text": "Annualised returns",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Absolute returns",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Expense ratio",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Tax",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Exit load",
+        "tag": "h5"
+      },
+      {
+        "level": 5,
+        "text": "Stamp duty",
+        "tag": "h5"
+      }
+    ],
+    "lists": [],
+    "tables": [
+      {
+        "headers": [
+          "Over the past",
+          "Total investment",
+          "Would've become",
+          "Historic returns",
+          "Returns"
+        ],
+        "rows": [
+          [
+            "1 year",
+            "₹60,000",
+            "₹57,612",
+            "",
+            "-3.98%"
+          ],
+          [
+            "3 years",
+            "₹1,80,000",
+            "₹1,99,865",
+            "",
+            "+11.04%"
+          ],
+          [
+            "5 years",
+            "₹3,00,000",
+            "₹4,21,202",
+            "",
+            "+40.40%"
+          ],
+          [
+            "10 years",
+            "₹6,00,000",
+            "₹12,97,754",
+            "",
+            "+116.29%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Name",
+          "Sector",
+          "Instruments",
+          "Assets"
+        ],
+        "rows": [
+          [
+            "ICICI Bank Ltd.",
+            "Financial",
+            "Equity",
+            "9.08%"
+          ],
+          [
+            "HDFC Bank Ltd.",
+            "Financial",
+            "Equity",
+            "8.31%"
+          ],
+          [
+            "Axis Bank Ltd.",
+            "Financial",
+            "Equity",
+            "7.04%"
+          ],
+          [
+            "SBI Life Insurance Company Ltd.",
+            "Insurance",
+            "Equity",
+            "4.88%"
+          ],
+          [
+            "State Bank of India",
+            "Financial",
+            "Equity",
+            "4.69%"
+          ],
+          [
+            "Maruti Suzuki India Ltd.",
+            "Automobile",
+            "Equity",
+            "4.63%"
+          ],
+          [
+            "Bharti Airtel Ltd.",
+            "Communication",
+            "Equity",
+            "4.62%"
+          ],
+          [
+            "Kotak Mahindra Bank Ltd.",
+            "Financial",
+            "Equity",
+            "4.23%"
+          ],
+          [
+            "HCL Technologies Ltd.",
+            "Technology",
+            "Equity",
+            "3.28%"
+          ],
+          [
+            "Reliance Industries Ltd.",
+            "Energy",
+            "Equity",
+            "3.06%"
+          ],
+          [
+            "Bajaj Auto Ltd.",
+            "Automobile",
+            "Equity",
+            "2.85%"
+          ],
+          [
+            "Hyundai Motor India Ltd.",
+            "Automobile",
+            "Equity",
+            "2.43%"
+          ],
+          [
+            "Power Grid Corporation Of India Ltd.",
+            "Energy",
+            "Equity",
+            "2.23%"
+          ],
+          [
+            "Infosys Ltd.",
+            "Technology",
+            "Equity",
+            "2.14%"
+          ],
+          [
+            "Tata Steel Ltd.",
+            "Metals & Mining",
+            "Equity",
+            "1.97%"
+          ],
+          [
+            "Britannia Industries Ltd.",
+            "Consumer Staples",
+            "Equity",
+            "1.56%"
+          ],
+          [
+            "JSW Steel Ltd.",
+            "Metals & Mining",
+            "Equity",
+            "1.54%"
+          ],
+          [
+            "Eternal Ltd.",
+            "Services",
+            "Equity",
+            "1.53%"
+          ],
+          [
+            "Larsen & Toubro Ltd.",
+            "Construction",
+            "Equity",
+            "1.51%"
+          ],
+          [
+            "Apollo Hospitals Enterprise Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.40%"
+          ],
+          [
+            "Oil And Natural Gas Corporation Ltd.",
+            "Energy",
+            "Equity",
+            "1.36%"
+          ],
+          [
+            "Karur Vysya Bank Ltd.",
+            "Financial",
+            "Equity",
+            "1.19%"
+          ],
+          [
+            "Jubilant FoodWorks Ltd.",
+            "Services",
+            "Equity",
+            "1.18%"
+          ],
+          [
+            "ICICI Lombard General Insurance Company Ltd.",
+            "Insurance",
+            "Equity",
+            "1.16%"
+          ],
+          [
+            "Interglobe Aviation Ltd.",
+            "Services",
+            "Equity",
+            "1.08%"
+          ],
+          [
+            "Cipla Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.03%"
+          ],
+          [
+            "Dr. Lal Pathlabs Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.02%"
+          ],
+          [
+            "Alkem Laboratories Ltd.",
+            "Healthcare",
+            "Equity",
+            "1.00%"
+          ],
+          [
+            "Bosch Ltd.",
+            "Automobile",
+            "Equity",
+            "0.98%"
+          ],
+          [
+            "Lupin Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.95%"
+          ],
+          [
+            "Tech Mahindra Ltd.",
+            "Technology",
+            "Equity",
+            "0.95%"
+          ],
+          [
+            "Metropolis Healthcare Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.95%"
+          ],
+          [
+            "Escorts Kubota Ltd.",
+            "Automobile",
+            "Equity",
+            "0.94%"
+          ],
+          [
+            "Star Health and Allied Insurance Company Ltd.",
+            "Insurance",
+            "Equity",
+            "0.94%"
+          ],
+          [
+            "Mphasis Ltd.",
+            "Technology",
+            "Equity",
+            "0.90%"
+          ],
+          [
+            "United Spirits Ltd.",
+            "Consumer Staples",
+            "Equity",
+            "0.83%"
+          ],
+          [
+            "Eicher Motors Ltd.",
+            "Automobile",
+            "Equity",
+            "0.81%"
+          ],
+          [
+            "PB Fintech Ltd.",
+            "Services",
+            "Equity",
+            "0.77%"
+          ],
+          [
+            "Havells India Ltd.",
+            "Capital Goods",
+            "Equity",
+            "0.73%"
+          ],
+          [
+            "Mahindra & Mahindra Ltd.",
+            "Automobile",
+            "Equity",
+            "0.71%"
+          ],
+          [
+            "ICICI Prudential Asset Management Company Ltd.",
+            "Financial",
+            "Equity",
+            "0.64%"
+          ],
+          [
+            "Godrej Consumer Products Ltd.",
+            "Consumer Staples",
+            "Equity",
+            "0.63%"
+          ],
+          [
+            "Birla Corporation Ltd.",
+            "Construction",
+            "Equity",
+            "0.57%"
+          ],
+          [
+            "Crompton Greaves Consumer Electricals Ltd.",
+            "Consumer Discretionary",
+            "Equity",
+            "0.54%"
+          ],
+          [
+            "The Ramco Cements Ltd.",
+            "Construction",
+            "Equity",
+            "0.50%"
+          ],
+          [
+            "Westlife Foodworld Ltd.",
+            "Services",
+            "Equity",
+            "0.49%"
+          ],
+          [
+            "Cyient Ltd.",
+            "Technology",
+            "Equity",
+            "0.35%"
+          ],
+          [
+            "GOI",
+            "Sovereign",
+            "GOI Sec",
+            "0.35%"
+          ],
+          [
+            "TeamLease Services Ltd.",
+            "Services",
+            "Equity",
+            "0.35%"
+          ],
+          [
+            "Cohance Lifesciences Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.29%"
+          ],
+          [
+            "Delhivery Ltd.",
+            "Services",
+            "Equity",
+            "0.29%"
+          ],
+          [
+            "Popular Vehicles And Services Ltd.",
+            "Services",
+            "Equity",
+            "0.29%"
+          ],
+          [
+            "Medi Assist Healthcare Services Ltd.",
+            "Services",
+            "Equity",
+            "0.28%"
+          ],
+          [
+            "Bajaj Electricals Ltd.",
+            "Consumer Discretionary",
+            "Equity",
+            "0.22%"
+          ],
+          [
+            "Anthem Biosciences Ltd.",
+            "Healthcare",
+            "Equity",
+            "0.22%"
+          ],
+          [
+            "JK Lakshmi Cement Ltd.",
+            "Construction",
+            "Equity",
+            "0.15%"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Name",
+          "3Y",
+          "5Y",
+          "10Y",
+          "All"
+        ],
+        "rows": [
+          [
+            "Fund returns",
+            "+17.9%",
+            "+19.0%",
+            "+15.0%",
+            "+14.2%"
+          ],
+          [
+            "Category average (Equity ELSS)",
+            "+16.4%",
+            "+16.5%",
+            "+14.0%",
+            "--"
+          ],
+          [
+            "Rank (Equity ELSS)",
+            "10",
+            "4",
+            "12",
+            "--"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "",
+          "Name",
+          "1Y",
+          "3Y",
+          "Fund Size(Cr)"
+        ],
+        "rows": [
+          [
+            "",
+            "Motilal Oswal ELSS Tax Saver Fund Direct Growth",
+            "+17.29%",
+            "+25.65%",
+            "3,968.68"
+          ],
+          [
+            "",
+            "SBI ELSS Tax Saver Fund Direct Growth",
+            "+3.43%",
+            "+21.16%",
+            "28,441.43"
+          ],
+          [
+            "",
+            "WhiteOak Capital ELSS Tax Saver Fund Direct Growth",
+            "+5.06%",
+            "+20.11%",
+            "402.93"
+          ],
+          [
+            "",
+            "HDFC ELSS Tax Saver Fund Direct Plan Growth",
+            "-0.61%",
+            "+17.93%",
+            "14,615.19"
+          ],
+          [
+            "",
+            "Parag Parikh ELSS Tax Saver Fund Direct Growth",
+            "-2.49%",
+            "+13.80%",
+            "5,260.64"
+          ],
+          [
+            "Compare"
+          ]
+        ]
+      }
+    ],
+    "paragraphs": [
+      "Average of the yearly returns of a mutual fund over a given period.",
+      "The total return of a mutual fund over a given period.",
+      "A fee payable to a mutual fund house for managing your mutual fund investments.     It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.",
+      "A percentage of your capital gains payable to the government upon exiting your mutual fund investments.     Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.",
+      "A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.",
+      "A form of tax payable for the purchase or sale of an asset or security."
+    ]
+  },
+  "cleaned_text": "HDFC ELSS Tax Saver Fund Direct Plan Growth\n\n Holdings (56)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n AKAmar KalkundrikarDec 2025- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC ELSS Tax Saver Fund Direct Plan Growth\n\n AboutHDFC ELSS Tax Saver Fund Direct Plan Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0. 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,612   -3. 98%\n\n3 years  ₹1,80,000  ₹1,99,865   11. 04%\n\n5 years  ₹3,00,000  ₹4,21,202   40. 40%\n\n10 years  ₹6,00,000  ₹12,97,754   116. 29%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd.  Financial  Equity  9. 08%\n\nHDFC Bank Ltd.  Financial  Equity  8. 31%\n\nAxis Bank Ltd.  Financial  Equity  7. 04%\n\nSBI Life Insurance Company Ltd.  Insurance  Equity  4. 88%\n\nState Bank of India  Financial  Equity  4. 69%\n\nMaruti Suzuki India Ltd.  Automobile  Equity  4. 63%\n\nBharti Airtel Ltd.  Communication  Equity  4. 62%\n\nKotak Mahindra Bank Ltd.  Financial  Equity  4. 23%\n\nHCL Technologies Ltd.  Technology  Equity  3. 28%\n\nReliance Industries Ltd.  Energy  Equity  3. 06%\n\nBajaj Auto Ltd.  Automobile  Equity  2. 85%\n\nHyundai Motor India Ltd.  Automobile  Equity  2. 43%\n\nPower Grid Corporation Of India Ltd.  Energy  Equity  2. 23%\n\nInfosys Ltd.  Technology  Equity  2. 14%\n\nTata Steel Ltd.  Metals  Mining  Equity  1. 97%\n\nBritannia Industries Ltd.  Consumer Staples  Equity  1. 56%\n\nJSW Steel Ltd.  Metals  Mining  Equity  1. 54%\n\nEternal Ltd. 53%\n\nLarsen  Toubro Ltd.  Construction  Equity  1. 51%\n\nApollo Hospitals Enterprise Ltd. 40%\n\nOil And Natural Gas Corporation Ltd.  Energy  Equity  1. 36%\n\nKarur Vysya Bank Ltd.  Financial  Equity  1. 19%\n\nJubilant FoodWorks Ltd. 18%\n\nICICI Lombard General Insurance Company Ltd.  Insurance  Equity  1. 16%\n\nInterglobe Aviation Ltd. 08%\n\nCipla Ltd. 03%\n\nDr. Lal Pathlabs Ltd. 02%\n\nAlkem Laboratories Ltd. 00%\n\nBosch Ltd. 98%\n\nLupin Ltd. 95%\n\nTech Mahindra Ltd. 95%\n\nMetropolis Healthcare Ltd. 95%\n\nEscorts Kubota Ltd. 94%\n\nStar Health and Allied Insurance Company Ltd.  Insurance  Equity  0. 94%\n\nMphasis Ltd. 90%\n\nUnited Spirits Ltd.  Consumer Staples  Equity  0. 83%\n\nEicher Motors Ltd. 81%\n\nPB Fintech Ltd. 77%\n\nHavells India Ltd.  Capital Goods  Equity  0. 73%\n\nMahindra  Mahindra Ltd. 71%\n\nICICI Prudential Asset Management Company Ltd.  Financial  Equity  0. 64%\n\nGodrej Consumer Products Ltd.  Consumer Staples  Equity  0. 63%\n\nBirla Corporation Ltd. 57%\n\nCrompton Greaves Consumer Electricals Ltd.  Consumer Discretionary  Equity  0. 54%\n\nThe Ramco Cements Ltd. 50%\n\nWestlife Foodworld Ltd. 49%\n\nCyient Ltd. 35%\n\nGOI  Sovereign  GOI Sec  0. 35%\n\nTeamLease Services Ltd. 35%\n\nCohance Lifesciences Ltd. 29%\n\nDelhivery Ltd. 29%\n\nPopular Vehicles And Services Ltd. 29%\n\nMedi Assist Healthcare Services Ltd. 28%\n\nBajaj Electricals Ltd.  Consumer Discretionary  Equity  0. 22%\n\nAnthem Biosciences Ltd. 22%\n\nJK Lakshmi Cement Ltd. 15%\n\nName  3Y  5Y  10Y  All\n\nFund returns  17. 9%  19. 0%  15. 0%  14. 2%\n\nCategory average (Equity ELSS)  16. 4%  16. 5%  14. 0%  --\n\nRank (Equity ELSS)  10  4  12  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Motilal Oswal ELSS Tax Saver Fund Direct Growth  17. 29%  25. 65%  3,968. 68\n\n SBI ELSS Tax Saver Fund Direct Growth  3. 43%  21. 16%  28,441. 43\n\n WhiteOak Capital ELSS Tax Saver Fund Direct Growth  5. 06%  20. 11%  402. 93\n\n HDFC ELSS Tax Saver Fund Direct Plan Growth  -0. 61%  17. 93%  14,615. 19\n\n Parag Parikh ELSS Tax Saver Fund Direct Growth  -2. 49%  13. 80%  5,260. 64\n\nCompare",
+  "statistics": {
+    "original_size": 389109,
+    "cleaned_size": 3693,
+    "headings_count": 27,
+    "paragraphs_count": 6,
+    "lists_count": 0,
+    "tables_count": 4
+  }
+}

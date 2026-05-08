@@ -1,0 +1,65 @@
+2026-05-08 22:59:07,737 [INFO] Skipping scraping (--skip-scrape)
+2026-05-08 22:59:07,737 [INFO] ============================================================
+2026-05-08 22:59:07,737 [INFO] STEP 2/4: Content Extraction
+2026-05-08 22:59:07,737 [INFO] ============================================================
+2026-05-08 22:59:07,738 [INFO] --- Starting: Content Extraction ---
+2026-05-08 22:59:08,172 [INFO] Content Extraction completed in 0.43s
+2026-05-08 22:59:08,172 [INFO]     Saved: hdfc_large_cap_fund_direct_growth.json
+2026-05-08 22:59:08,172 [INFO]     Size: 3491 characters
+2026-05-08 22:59:08,172 [INFO]   Processing: hdfc_mid_cap_fund_direct_growth.html
+2026-05-08 22:59:08,172 [INFO]     Saved: hdfc_mid_cap_fund_direct_growth.json
+2026-05-08 22:59:08,172 [INFO]     Size: 4526 characters
+2026-05-08 22:59:08,172 [INFO]   
+2026-05-08 22:59:08,172 [INFO]   ============================================================
+2026-05-08 22:59:08,172 [INFO]   Processing Complete
+2026-05-08 22:59:08,173 [INFO]   ============================================================
+2026-05-08 22:59:08,173 [INFO]   Total files processed: 5
+2026-05-08 22:59:08,173 [INFO]   Total original size: 1,932,454 characters
+2026-05-08 22:59:08,173 [INFO]   Total cleaned size: 18,295 characters
+2026-05-08 22:59:08,173 [INFO]   Reduction: 99.1%
+2026-05-08 22:59:08,173 [INFO]   
+2026-05-08 22:59:08,173 [INFO]   Extracted JSON files saved to: C:\milestone 2\phase_2\scraped-data\extracted_json
+2026-05-08 22:59:08,173 [INFO] ============================================================
+2026-05-08 22:59:08,173 [INFO] STEP 3/4: Document Chunking
+2026-05-08 22:59:08,173 [INFO] ============================================================
+2026-05-08 22:59:08,173 [INFO] --- Starting: Chunking ---
+2026-05-08 22:59:08,256 [INFO] Chunking completed in 0.08s
+2026-05-08 22:59:08,256 [INFO]     Saved: hdfc_mid_cap_fund_direct_growth_chunked.json
+2026-05-08 22:59:08,257 [INFO]     Chunks: 5
+2026-05-08 22:59:08,257 [INFO]     Valid chunks: 0
+2026-05-08 22:59:08,257 [INFO]     Avg quality: 0.80
+2026-05-08 22:59:08,257 [INFO]   
+2026-05-08 22:59:08,257 [INFO]   ============================================================
+2026-05-08 22:59:08,257 [INFO]   Processing Complete
+2026-05-08 22:59:08,257 [INFO]   ============================================================
+2026-05-08 22:59:08,258 [INFO]   Total files processed: 5
+2026-05-08 22:59:08,258 [INFO]   Total chunks generated: 20
+2026-05-08 22:59:08,258 [INFO]   Valid chunks: 1
+2026-05-08 22:59:08,258 [INFO]   Invalid chunks: 19
+2026-05-08 22:59:08,258 [INFO]   Average quality score: 0.81
+2026-05-08 22:59:08,258 [INFO]   
+2026-05-08 22:59:08,258 [INFO]   Chunked JSON files saved to: C:\milestone 2\phase_2\scraped-data\chunked_json
+2026-05-08 22:59:08,258 [INFO] ============================================================
+2026-05-08 22:59:08,259 [INFO] STEP 4/4: Embedding Generation
+2026-05-08 22:59:08,259 [INFO] ============================================================
+2026-05-08 22:59:08,259 [INFO] --- Starting: Embedding ---
+2026-05-08 22:59:26,412 [INFO] Embedding completed in 18.15s
+2026-05-08 22:59:26,413 [INFO]   Processing: hdfc_large_cap_fund_direct_growth_chunked.json
+2026-05-08 22:59:26,413 [INFO]     Chunks processed: 4
+2026-05-08 22:59:26,413 [INFO]     Embedding dim: 384
+2026-05-08 22:59:26,413 [INFO]   Processing: hdfc_mid_cap_fund_direct_growth_chunked.json
+2026-05-08 22:59:26,414 [INFO]     Chunks processed: 5
+2026-05-08 22:59:26,414 [INFO]     Embedding dim: 384
+2026-05-08 22:59:26,414 [INFO]   
+2026-05-08 22:59:26,414 [INFO]   ============================================================
+2026-05-08 22:59:26,414 [INFO]   Processing Complete
+2026-05-08 22:59:26,415 [INFO]   ============================================================
+2026-05-08 22:59:26,415 [INFO]   Files processed: 5
+2026-05-08 22:59:26,416 [INFO]   Total chunks indexed: 20
+2026-05-08 22:59:26,416 [INFO]   Total vectors in DB: 20
+2026-05-08 22:59:26,417 [INFO]   
+2026-05-08 22:59:26,417 [INFO]   Vector database saved to: C:\milestone 2\phase_3\vector_db
+2026-05-08 22:59:26,419 [INFO] Report saved to C:\milestone 2\logs\scheduler_report.json
+2026-05-08 22:59:26,420 [INFO] ============================================================
+2026-05-08 22:59:26,420 [INFO] ALL STEPS COMPLETE
+2026-05-08 22:59:26,420 [INFO] ============================================================

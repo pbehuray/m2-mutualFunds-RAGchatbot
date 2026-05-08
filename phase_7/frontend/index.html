@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Groww - Mutual Funds</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+    <!-- ========== TOP NAVIGATION ========== -->
+    <nav class="top-nav">
+        <div class="nav-left">
+            <div class="nav-logo">
+                <div class="logo-icon">G</div>
+                <span class="logo-word">Groww</span>
+            </div>
+            <div class="nav-search">
+                <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                <input type="text" placeholder="Search stocks, mutual funds, ETFs..." aria-label="Search">
+            </div>
+        </div>
+        <div class="nav-links">
+            <a href="#">Stocks</a>
+            <a href="#">F&amp;O</a>
+            <a href="#" class="active">Mutual Funds</a>
+            <a href="#">IPO</a>
+            <a href="#">ETFs</a>
+        </div>
+        <div class="nav-right">
+            <div class="nav-avatar">T</div>
+        </div>
+    </nav>
+
+    <!-- ========== MARKET TICKER ========== -->
+    <div class="ticker-strip">
+        <div class="ticker-item">
+            <span class="ticker-name">NIFTY 50</span>
+            <span class="ticker-value">24,052.70</span>
+            <span class="ticker-change negative">-66.60 (0.28%)</span>
+        </div>
+        <div class="ticker-item">
+            <span class="ticker-name">SENSEX</span>
+            <span class="ticker-value">77,065.59</span>
+            <span class="ticker-change negative">-203.81 (0.26%)</span>
+        </div>
+        <div class="ticker-item">
+            <span class="ticker-name">BANKNIFTY</span>
+            <span class="ticker-value">54,815.95</span>
+            <span class="ticker-change negative">-62.55 (0.11%)</span>
+        </div>
+        <div class="ticker-item">
+            <span class="ticker-name">MIDCPNIFTY</span>
+            <span class="ticker-value">13,953.95</span>
+            <span class="ticker-change positive">+23.75 (0.17%)</span>
+        </div>
+    </div>
+
+    <!-- ========== MAIN DASHBOARD ========== -->
+    <main class="dashboard">
+        <div class="dashboard-grid">
+
+            <!-- LEFT COLUMN -->
+            <div class="dash-left">
+
+                <!-- Card A: Most bought stocks -->
+                <div class="dash-card">
+                    <h2 class="card-title">Most bought stocks on Groww</h2>
+                    <div class="stock-tiles">
+                        <div class="stock-tile">
+                            <div class="stock-name">Titagarh Rail</div>
+                            <div class="stock-price">
+                                <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                855.40
+                            </div>
+                            <div class="stock-change positive">+11.17%</div>
+                        </div>
+                        <div class="stock-tile">
+                            <div class="stock-name">PNB</div>
+                            <div class="stock-price">
+                                <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                109.25
+                            </div>
+                            <div class="stock-change positive">+0.52%</div>
+                        </div>
+                        <div class="stock-tile">
+                            <div class="stock-name">Vedanta</div>
+                            <div class="stock-price">
+                                <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                302.30
+                            </div>
+                            <div class="stock-change positive">+2.80%</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card B: Top movers today -->
+                <div class="dash-card">
+                    <h2 class="card-title">Top movers today</h2>
+                    <table class="movers-table">
+                        <thead>
+                            <tr>
+                                <th>COMPANY</th>
+                                <th>MARKET PRICE</th>
+                                <th>CHANGE</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="company-name">CG Power &amp; Inds</td>
+                                <td class="market-price">
+                                    <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                    829.45
+                                </td>
+                                <td class="change-cell positive">+0.36%</td>
+                            </tr>
+                            <tr>
+                                <td class="company-name">Vedanta</td>
+                                <td class="market-price">
+                                    <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                    302.30
+                                </td>
+                                <td class="change-cell positive">+2.60%</td>
+                            </tr>
+                            <tr>
+                                <td class="company-name">PNB</td>
+                                <td class="market-price">
+                                    <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                    109.25
+                                </td>
+                                <td class="change-cell positive">+0.52%</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Card C: Quick Ask -->
+                <div class="dash-card">
+                    <h2 class="card-title">Quick Ask</h2>
+                    <div class="quick-ask-chips">
+                        <button class="quick-chip" data-query="What is the expense ratio of HDFC Large Cap Fund?">Expense ratio of Large Cap Fund?</button>
+                        <button class="quick-chip" data-query="What is the ELSS lock-in period?">ELSS lock-in period?</button>
+                        <button class="quick-chip" data-query="What is the minimum SIP for HDFC ELSS?">Minimum SIP for ELSS?</button>
+                        <button class="quick-chip" data-query="What is the exit load on HDFC Flexi Cap Fund?">Exit load on Flexi Cap Fund?</button>
+                    </div>
+                </div>
+
+                <!-- Card D: Disclaimer -->
+                <div class="disclaimer-banner">
+                    <span class="disclaimer-icon">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                    </span>
+                    <span>Facts-only Assistant. The Groww MF Assistant answers factual questions only. It does not provide investment advice.</span>
+                </div>
+            </div>
+
+            <!-- RIGHT COLUMN -->
+            <div class="dash-right">
+
+                <!-- Card E: Your investments -->
+                <div class="dash-card">
+                    <h2 class="card-title">Your investments</h2>
+                    <div class="empty-state">
+                        <div class="empty-icon">
+                            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#9ca3af" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+                        </div>
+                        <p class="empty-text">You haven't invested yet.</p>
+                        <p class="empty-sub">Start with as little as
+                            <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                            100.
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Card F: Watchlist -->
+                <div class="dash-card">
+                    <h2 class="card-title">Watchlist</h2>
+                    <div class="watchlist">
+                        <div class="watch-item">
+                            <span class="watch-name">HDFC Bank</span>
+                            <span class="watch-price">
+                                <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                1,532.20
+                            </span>
+                        </div>
+                        <div class="watch-item">
+                            <span class="watch-name">Infosys</span>
+                            <span class="watch-price">
+                                <svg width="8" height="8" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L2 22h20L12 2z"/></svg>
+                                1,468.55
+                            </span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card G: Products & Tools -->
+                <div class="dash-card">
+                    <h2 class="card-title">Products &amp; Tools</h2>
+                    <ul class="products-list">
+                        <li><a href="#">IPO</a></li>
+                        <li><a href="#">Bonds</a></li>
+                        <li><a href="#">ETFs</a></li>
+                        <li><a href="#">Intraday Screener</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- ========== CHAT WIDGET ========== -->
+    <button id="chat-toggle" class="chat-toggle" aria-label="Open chat assistant">
+        <svg class="icon-chat" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+        </svg>
+        <svg class="icon-close" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+    </button>
+
+    <div id="chat-panel" class="chat-panel hidden" role="dialog" aria-label="Groww Assistant chat" aria-hidden="true">
+        <div class="chat-header">
+            <div class="chat-header-info">
+                <div class="chat-avatar" aria-hidden="true">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                </div>
+                <div>
+                    <div class="chat-title">Groww Assistant</div>
+                    <div class="chat-subtitle">HDFC MF · Facts-only</div>
+                </div>
+            </div>
+            <button id="chat-close" class="chat-close" aria-label="Close chat">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+
+        <div id="chat-messages" class="chat-messages" role="log" aria-live="polite" aria-relevant="additions"></div>
+
+        <div id="suggested-chips" class="suggested-chips">
+            <div class="chips-label">TRY ASKING</div>
+            <div class="chips-row">
+                <button class="chip" data-query="What is the expense ratio of HDFC Large Cap Fund?">Expense ratio of Large Cap Fund?</button>
+                <button class="chip" data-query="What is the ELSS lock-in period?">ELSS lock-in period?</button>
+                <button class="chip" data-query="What is the minimum SIP for HDFC ELSS?">Minimum SIP for ELSS?</button>
+                <button class="chip" data-query="What is the exit load on HDFC Equity Fund?">Exit load on Equity Fund?</button>
+            </div>
+        </div>
+
+        <div class="chat-input-area">
+            <div class="scheme-selector-wrap">
+                <select id="scheme-select" aria-label="Select scheme">
+                    <option value="">All Schemes</option>
+                </select>
+            </div>
+            <div class="input-wrap">
+                <input id="query-input" type="text" placeholder="What is the expense..." maxlength="500" aria-label="Your question" autocomplete="off" />
+                <button id="send-btn" class="send-btn" aria-label="Send message" disabled>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <line x1="22" y1="2" x2="11" y2="13"></line>
+                        <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                    </svg>
+                </button>
+            </div>
+            <div class="input-meta">
+                <span id="char-count" class="char-count" aria-live="polite"></span>
+                <span class="disclaimer">Facts-only. No investment advice. Sources: Groww / HDFC / AMFI / SEBI.</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="chat-overlay" class="chat-overlay hidden" aria-hidden="true"></div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>
