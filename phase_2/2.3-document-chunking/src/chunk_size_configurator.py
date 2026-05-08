@@ -3,7 +3,7 @@ Chunk Size Configurator Module
 Configures chunk size and overlap parameters.
 """
 
-from typing import Dict, Any
+from typing import Dict, Any, Tuple, List
 
 
 class ChunkSizeConfigurator:
