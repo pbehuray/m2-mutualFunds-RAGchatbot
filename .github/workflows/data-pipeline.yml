@@ -1,6 +1,6 @@
 name: Data Pipeline
 
-"on":
+on:
   # Run weekly on Sundays at 04:30 UTC = 10:00 AM IST
   schedule:
     - cron: '30 4 * * 0'
