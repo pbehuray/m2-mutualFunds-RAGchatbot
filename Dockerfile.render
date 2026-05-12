@@ -22,9 +22,8 @@ COPY phase_4/ ./phase_4/
 COPY phase_3/ ./phase_3/
 COPY phase_2/ ./phase_2/
 
-# Copy vector database and data files
+# Copy data files (chroma_db will be created at runtime if needed)
 COPY data/ ./data/
-COPY chroma_db/ ./chroma_db/ 2>/dev/null || true
 
 # Set Python path
 ENV PYTHONPATH=/app
