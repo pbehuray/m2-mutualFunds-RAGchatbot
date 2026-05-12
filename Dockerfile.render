@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Copy requirements first for better caching
+# Build timestamp: 2026-05-12-001
 COPY phase_6/requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
