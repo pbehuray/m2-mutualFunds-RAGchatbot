@@ -1,0 +1,70 @@
+name: Streamlit CI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "streamlit_app/**"
+      - ".streamlit/**"
+      - "phase_6/**"
+      - "phase_5/**"
+      - "phase_4/**"
+      - "phase_3/**"
+      - "phase_2/**"
+      - "Dockerfile"
+      - "packages.txt"
+      - ".github/workflows/streamlit-ci.yml"
+  pull_request:
+    paths:
+      - "streamlit_app/**"
+      - ".streamlit/**"
+      - "phase_6/**"
+      - "phase_5/**"
+      - "phase_4/**"
+      - "phase_3/**"
+      - "phase_2/**"
+      - "Dockerfile"
+      - "packages.txt"
+      - ".github/workflows/streamlit-ci.yml"
+  workflow_dispatch:
+
+jobs:
+  validate-streamlit-app:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: "streamlit_app/requirements.txt"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r streamlit_app/requirements.txt
+
+      - name: Compile Python files
+        run: |
+          python -m compileall streamlit_app phase_6 phase_5 phase_4 phase_3 phase_2
+
+      - name: Validate Streamlit imports
+        env:
+          API_BASE_URL: http://localhost:8002
+        run: |
+          python - <<'PY'
+          import pathlib
+          import py_compile
+          py_compile.compile(str(pathlib.Path('streamlit_app/app.py')), doraise=True)
+          print('Streamlit app syntax OK')
+          PY
+
+      - name: Dockerfile smoke check
+        run: |
+          test -f Dockerfile
+          grep -q "streamlit_app/app.py" Dockerfile

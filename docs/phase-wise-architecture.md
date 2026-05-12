@@ -625,6 +625,117 @@ Return Answer
 
 ---
 
+## Phase 11: Streamlit Deployment
+
+### 11.1 Streamlit Application Setup
+- **Objective**: Deploy the Mutual Fund FAQ Assistant as a Streamlit web application for rapid prototyping and public access
+- **Why Streamlit**:
+  - Pure Python — no separate frontend framework needed
+  - Built-in chat UI components (st.chat_message, st.chat_input)
+  - One-command deployment to Streamlit Community Cloud
+  - Ideal for RAG / LLM demo applications
+  - Zero JavaScript/CSS required
+- **Activities**:
+  - Install Streamlit (`pip install streamlit`)
+  - Create `app.py` as the Streamlit entry point
+  - Configure page layout (wide mode, page title, favicon)
+  - Set up session state for chat history persistence across reruns
+- **Deliverable**: Working Streamlit app shell with page configuration
+
+### 11.2 Chat Interface Implementation
+- **Objective**: Build the conversational UI using Streamlit's native chat components
+- **Components**:
+  - Chat message container (user + assistant bubbles)
+  - Chat input bar at the bottom of the page
+  - Scheme selector dropdown in the sidebar
+  - Suggested question chips/buttons for quick queries
+  - Source attribution display under each response
+  - Feedback buttons (thumbs up / thumbs down) per response
+- **Activities**:
+  - Implement `st.chat_message` for user and assistant messages
+  - Wire chat input to the FastAPI `/api/query` endpoint (or call the orchestrator directly)
+  - Display source URL as a clickable link under each answer
+  - Add sidebar with scheme selector (`st.selectbox`) and session controls
+  - Add suggested queries as `st.button` elements
+  - Implement feedback submission via `/api/feedback` endpoint
+- **Deliverable**: Functional chat interface with history and feedback
+
+### 11.3 Dashboard and Data Display
+- **Objective**: Add fund overview dashboard alongside the chat interface
+- **Components**:
+  - Fund fact cards (NAV, expense ratio, AUM, risk level, min SIP)
+  - Sidebar with supported scheme list and quick links
+  - Data freshness indicator (last scraped date)
+  - Health status indicator for backend API
+- **Activities**:
+  - Create `st.columns` layout for fund fact cards
+  - Fetch scheme facts from `/api/schemes` endpoint
+  - Display real-time health status via `/api/health` endpoint
+  - Add `st.expander` for detailed fund information
+- **Deliverable**: Dashboard view integrated with chat
+
+### 11.4 Backend Integration
+- **Objective**: Connect Streamlit frontend to the existing FastAPI backend or call Python modules directly
+- **Integration Options**:
+  - **Option A (Recommended for production)**: HTTP calls to FastAPI `/api/query` endpoint
+    - Streamlit calls `requests.post()` to the running FastAPI server
+    - Clean separation of concerns; frontend and backend scale independently
+  - **Option B (Simple demo)**: Direct Python module imports
+    - Import `orchestrator` and `scheme_facts_service` directly in Streamlit
+    - No separate server needed; simpler but couples UI and logic
+- **Activities**:
+  - Implement API client with error handling and timeout
+  - Add loading spinner during query processing (`st.spinner`)
+  - Handle API errors gracefully with user-friendly messages
+  - Configure API base URL via environment variable or `st.secrets`
+- **Deliverable**: Fully integrated Streamlit app communicating with backend
+
+### 11.5 Streamlit Community Cloud Deployment
+- **Objective**: Deploy the application publicly using Streamlit Community Cloud (free hosting)
+- **Prerequisites**:
+  - GitHub repository with the Streamlit app
+  - `requirements.txt` with all Python dependencies
+  - `packages.txt` for any system-level dependencies (if needed)
+  - `.streamlit/secrets.toml` for API keys (GROQ_API_KEY, etc.)
+- **Deployment Steps**:
+  1. Push Streamlit app code to GitHub repository
+  2. Log in to [share.streamlit.io](https://share.streamlit.io) with GitHub account
+  3. Click "New app" → select repository and branch → set main file path to `app.py`
+  4. Configure secrets (GROQ_API_KEY, etc.) in the Streamlit Cloud dashboard
+  5. Deploy — Streamlit Cloud builds and hosts the app automatically
+- **Configuration**:
+  - Python version: 3.11
+  - Memory: 1 GB (Streamlit Community Cloud limit)
+  - Max upload size: 200 MB
+  - App URL: `https://<app-name>.streamlit.app`
+- **Alternative Deployment Options**:
+  - **Docker**: `docker build -t mf-chatbot .` + `docker run -p 8501:8501 mf-chatbot`
+  - **AWS/GCP/Azure**: Deploy using Docker image on cloud VM
+  - **Railway / Render**: One-click deployment from GitHub
+- **Activities**:
+  - Create `requirements.txt` for Streamlit dependencies
+  - Create `.streamlit/config.toml` for theme and server settings
+  - Create `.streamlit/secrets.toml` template for API keys
+  - Create `Dockerfile` for containerized deployment
+  - Test deployment on Streamlit Community Cloud
+  - Verify all features work in cloud environment (RAG, scheme facts, expense ratio, NAV)
+- **Deliverable**: Publicly accessible Streamlit application
+
+### 11.6 CI/CD for Streamlit App
+- **Objective**: Automate testing and deployment of the Streamlit application
+- **GitHub Actions Workflow**:
+  - Trigger on push to `main` affecting `streamlit_app/` directory
+  - Lint and syntax check the Streamlit app
+  - Run unit tests (if applicable)
+  - Auto-deploy to Streamlit Community Cloud (via `st-cli` or manual trigger)
+- **Activities**:
+  - Add Streamlit deployment workflow to `.github/workflows/`
+  - Configure deployment secrets in GitHub repository settings
+  - Add automated health check after deployment
+- **Deliverable**: CI/CD pipeline for Streamlit deployment
+
+---
+
 ## Technology Stack Summary
 
 ### Backend
@@ -665,7 +776,8 @@ Return Answer
 | Phase 8: Testing | 2 weeks | Phase 7 |
 | Phase 9: Deployment | 1 week | Phase 8 |
 | Phase 10: Monitoring | Ongoing | Phase 9 |
-**Total Estimated Time**: 14 weeks (3.5 months)
+| Phase 11: Streamlit Deployment | 1 week | Phase 7, Phase 6 |
+**Total Estimated Time**: 15 weeks (3.75 months)
 
 ---
 
