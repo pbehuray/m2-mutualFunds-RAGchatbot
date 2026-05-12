@@ -1,0 +1,37 @@
+# Render Blueprint for FastAPI Backend Deployment
+# Phase 12: Backend Deployment on Render
+# Documentation: https://render.com/docs/blueprint-spec
+
+services:
+  # FastAPI Backend Web Service
+  - type: web
+    name: mf-chatbot-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile.render
+    env: python
+    plan: free
+    # Health check endpoint
+    healthCheckPath: /health
+    # Auto-deploy on git push
+    autoDeploy: true
+    # Environment variables (set these in Render dashboard)
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false  # Set manually in Render dashboard
+      - key: REDIS_URL
+        value: ""  # Optional: Set if using Redis
+      - key: CHROMA_DB_PATH
+        value: ./chroma_db
+      - key: PYTHONPATH
+        value: /app
+      - key: PORT
+        value: 8002
+    # CORS origins (comma-separated)
+      - key: CORS_ORIGINS
+        value: "https://*.streamlit.app,https://share.streamlit.io"
+
+# Optional: Redis Service (commented out - paid tier)
+# - type: redis
+#   name: mf-chatbot-redis
+#   plan: free
+#   ipAllowList: []  # Allow all
