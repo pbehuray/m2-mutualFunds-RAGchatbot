@@ -27,11 +27,21 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, PROJECT_ROOT)
 
 # ---------------------------------------------------------------------------
+# Option B: Direct backend imports (single-container deployment)
+# ---------------------------------------------------------------------------
+from phase_5.orchestrator import Orchestrator
+
+# Initialize orchestrator once (cached)
+@st.cache_resource
+def get_orchestrator():
+    return Orchestrator()
+
+# ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 API_BASE = os.environ.get(
     "API_BASE_URL",
-    st.secrets.get("api_base_url", "http://localhost:8002"),
+    st.secrets.get("api_base_url", None),  # None triggers direct import mode
 )
 REQUEST_TIMEOUT = int(os.environ.get("REQUEST_TIMEOUT", 30))
 
@@ -121,7 +131,31 @@ def _api_post(endpoint: str, payload: dict) -> Optional[dict]:
 
 
 def query_backend(query: str, scheme: str = None) -> dict:
-    """Send a query to the backend and return the response."""
+    """Process query using orchestrator directly (Option B) or via HTTP API (Option A)."""
+    # Option B: Direct orchestrator execution (no external backend)
+    if API_BASE is None:
+        try:
+            orchestrator = get_orchestrator()
+            result = orchestrator.process_query(query, context={"scheme": scheme} if scheme else {})
+            return {
+                "answer": result.get("answer", ""),
+                "source": result.get("source", ""),
+                "scheme": scheme,
+                "confidence": result.get("confidence", 0.0),
+                "route": result.get("route", "unknown"),
+                "include_url": result.get("include_url", False),
+            }
+        except Exception as e:
+            return {
+                "answer": f"Error processing query: {str(e)}",
+                "source": "",
+                "scheme": None,
+                "confidence": 0.0,
+                "route": "error",
+                "include_url": False,
+            }
+    
+    # Option A: HTTP API call to external backend
     payload = {"query": query}
     if scheme:
         payload["scheme"] = scheme
@@ -139,10 +173,24 @@ def query_backend(query: str, scheme: str = None) -> dict:
 
 
 def get_health() -> Optional[dict]:
+    if API_BASE is None:
+        # Option B: Direct health check
+        try:
+            orchestrator = get_orchestrator()
+            return {"status": "healthy", "mode": "direct", "orchestrator": "initialized"}
+        except Exception as e:
+            return {"status": "unhealthy", "error": str(e)}
     return _api_get("/api/health")
 
 
 def get_schemes() -> Optional[dict]:
+    if API_BASE is None:
+        # Option B: Return static schemes list
+        return {
+            "schemes": SUPPORTED_SCHEMES,
+            "source": "local",
+            "mode": "direct"
+        }
     return _api_get("/api/schemes")
 
 
