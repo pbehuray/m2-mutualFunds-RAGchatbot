@@ -1,14 +1,5 @@
-# Streamlit app dependencies
-streamlit>=1.35.0
-requests>=2.31.0
-pydantic>=2.0.0
-
-# Backend dependencies (for Option B: direct import mode)
-fastapi>=0.104.0
-uvicorn[standard]>=0.24.0
-python-multipart>=0.0.6
-beautifulsoup4>=4.12.0
-sentence-transformers>=2.2.0
-chromadb>=0.4.0
-python-dotenv>=1.0.0
-redis>=5.0.0
+# Streamlit Community Cloud dependencies.
+# The Streamlit app calls the FastAPI backend over HTTP, so backend/RAG
+# dependencies are intentionally excluded to keep cloud builds lightweight.
+streamlit==1.35.0
+requests==2.31.0
