@@ -1,2 +1,0 @@
-# System packages for Streamlit Community Cloud.
-# Keep empty unless native dependencies are required by deployment.
