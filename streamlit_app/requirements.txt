@@ -1,5 +1,5 @@
 # Streamlit Community Cloud dependencies.
 # The Streamlit app calls the FastAPI backend over HTTP, so backend/RAG
 # dependencies are intentionally excluded to keep cloud builds lightweight.
-streamlit==1.35.0
+streamlit==1.40.0
 requests==2.31.0
