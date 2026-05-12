@@ -1,25 +1,4 @@
-# Phase 11 Option B: Streamlit with Direct Backend Imports
-# Includes all RAG/LLM dependencies for single-container deployment
-streamlit==1.35.0
+# Phase 11 Option A: Streamlit Frontend (HTTP Client Only)
+# The FastAPI backend runs separately on Render
+streamlit==1.40.0
 requests==2.31.0
-
-# Backend dependencies for direct execution
-fastapi==0.111.0
-uvicorn[standard]==0.30.0
-pydantic==2.7.4
-python-multipart==0.0.9
-
-# RAG components
-chromadb==0.5.0
-sentence-transformers==3.0.1
-groq==0.9.0
-
-# Data processing
-pandas==2.2.2
-numpy==1.26.4
-
-# Utilities
-python-dotenv==1.0.1
-beautifulsoup4==4.12.3
-lxml==5.2.2
-aiohttp==3.9.5

@@ -734,6 +734,80 @@ Return Answer
   - Add automated health check after deployment
 - **Deliverable**: CI/CD pipeline for Streamlit deployment
 
+### 11.7 Backend API Integration
+- **Objective**: Connect Streamlit frontend to FastAPI backend
+- **Configuration**:
+  - Backend URL configuration via Streamlit secrets
+  - Environment-specific API endpoints (local/dev/prod)
+  - Fallback behavior when backend is unavailable
+- **Activities**:
+  - Add `api_base_url` to `.streamlit/secrets.toml`
+  - Implement backend health checks in Streamlit app
+  - Add user-friendly error messages for backend connectivity issues
+- **Deliverable**: Frontend successfully communicating with backend API
+
+---
+
+## Phase 12: Backend Deployment on Render
+
+### 12.1 Objective
+Deploy the FastAPI backend service to Render (free tier) to provide a publicly accessible API endpoint for the Streamlit frontend.
+
+### 12.2 Architecture
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  Streamlit Cloud (Frontend)                              │
+│  https://mf-chatbot.streamlit.app                        │
+│     ↓ HTTP API calls                                     │
+│  Render (Backend)                                        │
+│  https://mf-chatbot-api.onrender.com                   │
+│     ↓                                                    │
+│  External Services (Groq API)                           │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 12.3 Components
+- **FastAPI Application**: `phase_6/api/main.py`
+- **Docker Container**: Containerized backend service
+- **Render Web Service**: Free tier hosting (512 MB RAM, 0.1 CPU)
+- **Environment Variables**: API keys, configuration
+
+### 12.4 Deployment Steps
+1. **Create Render Account**: Sign up at https://render.com
+2. **New Web Service**: Connect GitHub repository
+3. **Configure Service**:
+   - **Name**: `mf-chatbot-api`
+   - **Runtime**: Docker
+   - **Dockerfile Path**: `Dockerfile.render`
+   - **Port**: `8002`
+   - **Health Check**: `/health`
+4. **Environment Variables**:
+   - `GROQ_API_KEY`: Your Groq API key
+   - `CHROMA_DB_PATH`: Path to vector database
+5. **Deploy**: Automatic deployment on git push to main
+
+### 12.5 Free Tier Limits (Render)
+- **Instance**: Spins down after 15 min inactivity (cold start ~30s)
+- **Monthly Limit**: 750 hours (sufficient for demo/testing)
+- **RAM**: 512 MB
+
+### 12.6 Configuration Files
+- `Dockerfile.render` - Docker image for backend
+- `render.yaml` - Infrastructure-as-code blueprint
+
+### 12.7 Activities
+- Create `Dockerfile.render` for backend container
+- Create `render.yaml` for infrastructure-as-code
+- Set up environment variables in Render dashboard
+- Configure CORS for Streamlit Cloud domain
+- Test API connectivity from Streamlit frontend
+
+### 12.8 Deliverables
+- Publicly accessible FastAPI backend on Render
+- Updated Streamlit secrets with backend URL
+- Working end-to-end chatbot system
+
 ---
 
 ## Technology Stack Summary
@@ -777,7 +851,8 @@ Return Answer
 | Phase 9: Deployment | 1 week | Phase 8 |
 | Phase 10: Monitoring | Ongoing | Phase 9 |
 | Phase 11: Streamlit Deployment | 1 week | Phase 7, Phase 6 |
-**Total Estimated Time**: 15 weeks (3.75 months)
+| Phase 12: Backend Deployment on Render | 3 days | Phase 6, Phase 11 |
+**Total Estimated Time**: 16 weeks (4 months)
 
 ---
 
