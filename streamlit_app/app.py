@@ -78,6 +78,31 @@ st.markdown(
         color: var(--text-main);
     }
 
+    header[data-testid="stHeader"] {
+        background: #050b0a;
+        border-bottom: 1px solid var(--border-soft);
+    }
+
+    [data-testid="stToolbar"] {
+        background: #050b0a;
+    }
+
+    [data-testid="stDecoration"] {
+        background: var(--groww-green);
+    }
+
+    .block-container {
+        background: transparent;
+    }
+
+    section.main > div {
+        background: transparent;
+    }
+
+    [data-testid="stBottomBlockContainer"] {
+        background: #050b0a;
+    }
+
     [data-testid="stSidebar"] {
         background: linear-gradient(180deg, #07110f 0%, #050b0a 100%);
         border-right: 1px solid var(--border-soft);
@@ -175,6 +200,10 @@ st.markdown(
     [data-testid="stChatInput"] {
         background: rgba(5, 11, 10, 0.92);
         border-top: 1px solid var(--border-soft);
+    }
+
+    [data-testid="stChatInput"] > div {
+        background: #050b0a;
     }
 
     [data-testid="stChatInput"] textarea {
