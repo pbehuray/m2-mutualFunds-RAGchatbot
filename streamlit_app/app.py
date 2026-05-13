@@ -28,9 +28,6 @@ API_BASE = os.environ.get(
 )
 REQUEST_TIMEOUT = int(os.environ.get("REQUEST_TIMEOUT", 30))
 
-# Debug: Show API endpoint
-st.sidebar.caption(f"API: {API_BASE}")
-
 SUPPORTED_SCHEMES = [
     "HDFC Large Cap Fund Direct Growth",
     "HDFC Mid Cap Fund Direct Growth",
@@ -59,6 +56,9 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# Debug: Show API endpoint
+st.sidebar.caption(f"API: {API_BASE}")
 
 # ---------------------------------------------------------------------------
 # Session state initialization (11.1)
