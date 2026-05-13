@@ -57,9 +57,6 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# Debug: Show API endpoint
-st.sidebar.caption(f"API: {API_BASE}")
-
 st.markdown(
     """
     <style>
@@ -292,15 +289,6 @@ def submit_feedback(query: str, answer: str, rating: str, comment: str = None):
 # ---------------------------------------------------------------------------
 def render_sidebar():
     with st.sidebar:
-        st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Groww_logo.png/600px-Groww_logo.png",
-            width=120,
-        )
-        st.title("GROWW RAG")
-        st.caption("Facts-only. No investment advice.")
-
-        st.divider()
-
         # Scheme selector
         st.subheader("Scheme Selector")
         selected_scheme = st.selectbox(
@@ -310,25 +298,6 @@ def render_sidebar():
             label_visibility="collapsed",
         )
         scheme_value = None if selected_scheme == "(auto-detect)" else selected_scheme
-
-        st.divider()
-
-        # Health status
-        st.subheader("System Status")
-        health = get_health()
-        if health:
-            is_ready = health.get("orchestrator_ready", False)
-            status_emoji = "🟢" if is_ready else "🟡"
-            mode = health.get('mode', 'api')
-            if mode == 'direct':
-                st.markdown(f"{status_emoji} **Mode**: Direct (No API)")
-            else:
-                st.markdown(f"{status_emoji} **API**: {health.get('status', 'unknown')}")
-            st.markdown(f"🔄 **Orchestrator**: {'Ready' if is_ready else 'Loading...'}")
-            if health.get('error'):
-                st.error(f"Error: {health.get('error')}")
-        else:
-            st.markdown("🔴 **API**: Unreachable")
 
         st.divider()
 
