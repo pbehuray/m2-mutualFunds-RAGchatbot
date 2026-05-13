@@ -51,7 +51,7 @@ SUGGESTED_QUERIES = [
 # Page configuration (11.1)
 # ---------------------------------------------------------------------------
 st.set_page_config(
-    page_title="HDFC MF Assistant",
+    page_title="GROWW RAG",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -59,6 +59,144 @@ st.set_page_config(
 
 # Debug: Show API endpoint
 st.sidebar.caption(f"API: {API_BASE}")
+
+st.markdown(
+    """
+    <style>
+    :root {
+        --groww-green: #00d09c;
+        --groww-green-dark: #00a77d;
+        --bg-main: #050b0a;
+        --bg-panel: #0b1412;
+        --bg-card: #101c19;
+        --text-main: #f4fffb;
+        --text-muted: #a8b8b2;
+        --border-soft: rgba(0, 208, 156, 0.18);
+    }
+
+    .stApp {
+        background:
+            radial-gradient(circle at top left, rgba(0, 208, 156, 0.16), transparent 34rem),
+            linear-gradient(135deg, #050b0a 0%, #07110f 45%, #020403 100%);
+        color: var(--text-main);
+    }
+
+    [data-testid="stSidebar"] {
+        background: linear-gradient(180deg, #07110f 0%, #050b0a 100%);
+        border-right: 1px solid var(--border-soft);
+    }
+
+    [data-testid="stSidebar"] * {
+        color: var(--text-main);
+    }
+
+    [data-testid="stSidebar"] .stCaption,
+    [data-testid="stSidebar"] small,
+    .stCaption,
+    div[data-testid="stMarkdownContainer"] p {
+        color: var(--text-muted);
+    }
+
+    h1, h2, h3 {
+        color: var(--text-main);
+        letter-spacing: -0.03em;
+    }
+
+    .groww-hero {
+        padding: 2rem;
+        border: 1px solid var(--border-soft);
+        border-radius: 1.5rem;
+        background:
+            linear-gradient(135deg, rgba(0, 208, 156, 0.16), rgba(0, 208, 156, 0.03)),
+            rgba(11, 20, 18, 0.92);
+        box-shadow: 0 24px 80px rgba(0, 0, 0, 0.35);
+        margin-bottom: 1.4rem;
+    }
+
+    .groww-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        padding: 0.38rem 0.75rem;
+        border: 1px solid var(--border-soft);
+        border-radius: 999px;
+        color: var(--groww-green);
+        background: rgba(0, 208, 156, 0.08);
+        font-size: 0.85rem;
+        font-weight: 700;
+        margin-bottom: 0.9rem;
+    }
+
+    .groww-hero h1 {
+        margin: 0;
+        font-size: clamp(2rem, 4vw, 3.4rem);
+        line-height: 1.05;
+    }
+
+    .groww-hero p {
+        margin-top: 0.85rem;
+        max-width: 760px;
+        color: var(--text-muted);
+        font-size: 1.05rem;
+    }
+
+    div[data-testid="stExpander"],
+    div[data-testid="stForm"],
+    [data-testid="stChatMessage"] {
+        border: 1px solid var(--border-soft);
+        border-radius: 1rem;
+        background: rgba(16, 28, 25, 0.78);
+    }
+
+    [data-testid="stChatMessage"] {
+        box-shadow: 0 12px 32px rgba(0, 0, 0, 0.18);
+    }
+
+    .stButton > button {
+        border: 1px solid rgba(0, 208, 156, 0.28);
+        border-radius: 999px;
+        background: rgba(0, 208, 156, 0.10);
+        color: var(--text-main);
+        transition: all 0.18s ease;
+    }
+
+    .stButton > button:hover {
+        border-color: var(--groww-green);
+        background: var(--groww-green);
+        color: #02110d;
+        transform: translateY(-1px);
+    }
+
+    .stSelectbox div[data-baseweb="select"] > div,
+    .stTextInput input,
+    textarea {
+        background-color: #0b1412;
+        border-color: var(--border-soft);
+        color: var(--text-main);
+    }
+
+    [data-testid="stChatInput"] {
+        background: rgba(5, 11, 10, 0.92);
+        border-top: 1px solid var(--border-soft);
+    }
+
+    [data-testid="stChatInput"] textarea {
+        background: #0b1412;
+        color: var(--text-main);
+        border: 1px solid var(--border-soft);
+    }
+
+    hr {
+        border-color: var(--border-soft);
+    }
+
+    a {
+        color: var(--groww-green) !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
 
 # ---------------------------------------------------------------------------
 # Session state initialization (11.1)
@@ -158,7 +296,7 @@ def render_sidebar():
             "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Groww_logo.png/600px-Groww_logo.png",
             width=120,
         )
-        st.title("HDFC MF Assistant")
+        st.title("GROWW RAG")
         st.caption("Facts-only. No investment advice.")
 
         st.divider()
@@ -353,8 +491,20 @@ def main():
     scheme_value = render_sidebar()
 
     # Main area header
-    st.title("📈 HDFC Mutual Fund FAQ Assistant")
-    st.caption("Ask factual questions about HDFC mutual fund schemes — expense ratio, NAV, exit load, SIP, lock-in, riskometer, and more.")
+    st.markdown(
+        """
+        <section class="groww-hero">
+            <div class="groww-pill">● Mutual fund RAG · Facts-only assistant</div>
+            <h1>GROWW RAG</h1>
+            <p>
+                Retrieves facts from curated mutual fund sources.<br>
+                Answers questions on expense ratio, NAV, SIP, exit load, risk, and benchmark.<br>
+                Shows source-backed responses without giving investment advice.
+            </p>
+        </section>
+        """,
+        unsafe_allow_html=True,
+    )
 
     # Dashboard (collapsible)
     with st.expander("📊 Fund Overview Dashboard", expanded=False):
