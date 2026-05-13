@@ -1,8 +1,8 @@
-# Root level requirements for Streamlit Cloud (Option B - Direct Backend)
+# Root level requirements for API-backed deployment
 streamlit==1.40.0
 requests==2.31.0
 
-# Backend dependencies for direct execution
+# Backend dependencies
 fastapi==0.111.0
 uvicorn[standard]==0.30.0
 pydantic==2.7.4
@@ -10,7 +10,6 @@ python-multipart==0.0.9
 
 # RAG components
 chromadb==0.5.0
-sentence-transformers==3.0.1
 groq==0.9.0
 
 # Data processing
