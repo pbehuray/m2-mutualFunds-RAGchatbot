@@ -10,7 +10,7 @@
       },
       {
         "level": 2,
-        "text": "Holdings (45)",
+        "text": "Holdings (47)",
         "tag": "h2"
       },
       {
@@ -153,30 +153,30 @@
           [
             "1 year",
             "₹60,000",
-            "₹57,851",
+            "₹57,126",
             "",
-            "-3.58%"
+            "-4.79%"
           ],
           [
             "3 years",
             "₹1,80,000",
-            "₹1,88,545",
+            "₹1,85,113",
             "",
-            "+4.75%"
+            "+2.84%"
           ],
           [
             "5 years",
             "₹3,00,000",
-            "₹3,77,245",
+            "₹3,71,917",
             "",
-            "+25.75%"
+            "+23.97%"
           ],
           [
             "10 years",
             "₹6,00,000",
-            "₹11,44,634",
+            "₹11,30,433",
             "",
-            "+90.77%"
+            "+88.41%"
           ]
         ]
       },
@@ -189,82 +189,88 @@
         ],
         "rows": [
           [
-            "ICICI Bank Ltd.",
+            "ICICI Bank Ltd",
             "Financial",
             "Equity",
             "9.15%"
           ],
           [
-            "HDFC Bank Ltd.",
+            "HDFC Bank Ltd",
             "Financial",
             "Equity",
             "7.84%"
           ],
           [
-            "Bharti Airtel Ltd.",
-            "Communication",
+            "Bharti Airtel Ltd",
+            "Technology",
             "Equity",
             "5.90%"
           ],
           [
-            "Reliance Industries Ltd.",
-            "Energy",
+            "Reliance Industries Ltd",
+            "Energy & Utilities",
             "Equity",
             "5.61%"
           ],
           [
-            "Kotak Mahindra Bank Ltd.",
+            "Kotak Mahindra Bank Ltd",
             "Financial",
             "Equity",
             "5.47%"
           ],
           [
-            "Titan Company Ltd.",
+            "Titan Company Ltd",
             "Consumer Discretionary",
             "Equity",
             "4.74%"
           ],
           [
-            "Axis Bank Ltd.",
+            "Axis Bank Ltd",
             "Financial",
             "Equity",
             "3.56%"
           ],
           [
-            "Torrent Pharmaceuticals Ltd.",
+            "Torrent Pharmaceuticals Ltd",
             "Healthcare",
             "Equity",
             "3.49%"
           ],
           [
-            "Infosys Ltd.",
+            "Infosys Ltd",
             "Technology",
             "Equity",
             "3.01%"
           ],
           [
-            "Bajaj Auto Ltd.",
-            "Automobile",
+            "Bajaj Auto Ltd",
+            "Consumer Discretionary",
             "Equity",
             "2.95%"
           ],
           [
-            "Lupin Ltd.",
+            "Lupin Ltd",
             "Healthcare",
             "Equity",
             "2.79%"
           ],
           [
-            "Bajaj Finserv Ltd.",
+            "Bajaj Finserv Ltd",
             "Financial",
             "Equity",
             "2.73%"
           ],
           [
-            "Ambuja Cements Ltd.",
-            "Construction",
+            "Ambuja Cements Ltd",
+            "Materials",
             "Equity",
             "2.60%"
+          ],
+          [
+            "Repo",
+            "Unspecified",
+            "Repo",
+            "2.53%"
           ],
           [
             "State Bank of India",
@@ -273,43 +279,43 @@
             "2.43%"
           ],
           [
-            "NTPC Ltd.",
-            "Energy",
+            "NTPC Ltd",
+            "Energy & Utilities",
             "Equity",
             "2.34%"
           ],
           [
-            "Cholamandalam Investment and Finance Company Ltd.",
+            "Cholamandalam Investment & Finance Company Ltd",
             "Financial",
             "Equity",
             "2.15%"
           ],
           [
-            "Eternal Ltd.",
-            "Services",
+            "Zomato Ltd",
+            "Technology",
             "Equity",
             "1.96%"
           ],
           [
-            "Tata Motors Ltd.",
-            "Automobile",
+            "Tata Motors Ltd",
+            "Industrials",
             "Equity",
             "1.84%"
           ],
           [
-            "Max Healthcare Institute Ltd.",
+            "Max Healthcare Institute Ltd",
             "Healthcare",
             "Equity",
             "1.72%"
           ],
           [
-            "Interglobe Aviation Ltd.",
-            "Services",
+            "Interglobe Aviation Ltd",
+            "Industrials",
             "Equity",
             "1.69%"
           ],
           [
-            "United Spirits Ltd.",
+            "United Spirits Ltd",
             "Consumer Staples",
             "Equity",
             "1.66%"
@@ -322,31 +328,31 @@
           ],
           [
             "Vishal Mega Mart Ltd.",
-            "Services",
+            "Consumer Staples",
             "Equity",
             "1.58%"
           ],
           [
-            "Tata Consumer Products Ltd.",
+            "Tata Consumer Products Ltd",
             "Consumer Staples",
             "Equity",
             "1.52%"
           ],
           [
-            "Indusind Bank Ltd.",
+            "Indusind Bank Ltd",
             "Financial",
             "Equity",
             "1.48%"
           ],
           [
-            "Havells India Ltd.",
-            "Capital Goods",
+            "Havells India Ltd",
+            "Consumer Discretionary",
             "Equity",
             "1.41%"
           ],
           [
-            "Larsen & Toubro Ltd.",
-            "Construction",
+            "Larsen & Toubro Ltd",
+            "Industrials",
             "Equity",
             "1.38%"
           ],
@@ -357,80 +363,86 @@
             "1.18%"
           ],
           [
-            "Eicher Motors Ltd.",
-            "Automobile",
+            "Eicher Motors Ltd",
+            "Consumer Discretionary",
             "Equity",
             "1.06%"
           ],
           [
             "Swiggy Ltd.",
-            "Services",
+            "Technology",
             "Equity",
             "1.05%"
           ],
           [
             "Hyundai Motor India Ltd.",
-            "Automobile",
+            "Consumer Discretionary",
             "Equity",
             "1.04%"
           ],
           [
-            "Maruti Suzuki India Ltd.",
-            "Automobile",
+            "Maruti Suzuki India Ltd",
+            "Consumer Discretionary",
             "Equity",
             "0.99%"
           ],
           [
-            "Adani Ports and Special Economic Zone Ltd.",
-            "Services",
+            "Adani Ports and Special Economic Zone Ltd",
+            "Industrials",
             "Equity",
             "0.95%"
           ],
           [
-            "SRF Ltd.",
-            "Chemicals",
+            "SRF Ltd",
+            "Materials",
             "Equity",
             "0.92%"
           ],
           [
-            "Mahindra & Mahindra Ltd.",
-            "Automobile",
+            "Mahindra & Mahindra Ltd",
+            "Consumer Discretionary",
             "Equity",
             "0.80%"
           ],
           [
-            "Dabur India Ltd.",
+            "Dabur India Ltd",
             "Consumer Staples",
             "Equity",
             "0.80%"
           ],
           [
-            "CG Power and Industrial Solutions Ltd.",
-            "Capital Goods",
+            "CG Power & Industrial Solutions Ltd",
+            "Industrials",
             "Equity",
             "0.58%"
           ],
           [
-            "Tata Capital Ltd.",
+            "Net Current Assets",
+            "Unspecified",
+            "Net Current Assets",
+            "0.57%"
+          ],
+          [
+            "TATA CAPITAL LIMITED EQ",
             "Financial",
             "Equity",
             "0.54%"
           ],
           [
-            "GOI",
-            "Sovereign",
-            "GOI Sec",
+            "GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100",
+            "Entities",
+            "GOI Securities",
             "0.49%"
           ],
           [
-            "Tata Motors Passenger Vehicles Ltd.",
-            "Automobile",
+            "Tata Motors Ltd",
+            "Consumer Discretionary",
             "Equity",
             "0.48%"
           ],
           [
-            "DLF Ltd.",
-            "Construction",
+            "DLF Ltd",
+            "Real Estate",
             "Equity",
             "0.33%"
           ],
@@ -441,20 +453,20 @@
             "0.33%"
           ],
           [
-            "Cummins India Ltd.",
-            "Capital Goods",
+            "Cummins India Ltd",
+            "Industrials",
             "Equity",
             "0.32%"
           ],
           [
-            "Hindalco Industries Ltd.",
-            "Metals & Mining",
+            "Hindalco Industries Ltd",
+            "Materials",
             "Equity",
             "0.24%"
           ],
           [
-            "SBI Life Insurance Company Ltd.",
-            "Insurance",
+            "SBI Life Insurance Company Ltd",
+            "Financial",
             "Equity",
             "0.19%"
           ]
@@ -471,10 +483,10 @@
         "rows": [
           [
             "Fund returns",
-            "+11.8%",
-            "+12.5%",
-            "+13.3%",
-            "+13.0%"
+            "+11.3%",
+            "+12.2%",
+            "+13.1%",
+            "+12.9%"
           ],
           [
             "Category average (Equity Large Cap)",
@@ -485,7 +497,7 @@
           ],
           [
             "Rank (Equity Large Cap)",
-            "45",
+            "46",
             "20",
             "12",
             "--"
@@ -504,36 +516,36 @@
           [
             "",
             "Invesco India Largecap Fund Direct Growth",
-            "+1.15%",
-            "+15.58%",
+            "+0.87%",
+            "+15.34%",
             "1,721.89"
           ],
           [
             "",
             "WhiteOak Capital Large Cap Fund Direct Growth",
-            "+0.08%",
-            "+15.08%",
+            "-0.42%",
+            "+14.74%",
             "1,163.57"
           ],
           [
             "",
             "Nippon India Large Cap Fund Direct Growth",
-            "-0.70%",
-            "+15.06%",
+            "-1.81%",
+            "+14.52%",
             "51,690.28"
           ],
           [
             "",
             "ICICI Prudential Large Cap Fund Direct Growth",
-            "-2.25%",
-            "+14.51%",
+            "-2.98%",
+            "+14.09%",
             "75,650.43"
           ],
           [
             "",
             "DSP Large Cap Fund Direct Growth",
-            "-4.25%",
-            "+14.22%",
+            "-4.96%",
+            "+13.66%",
             "7,192.01"
           ],
           [
@@ -551,10 +563,10 @@
       "A form of tax payable for the purchase or sale of an asset or security."
     ]
   },
-  "cleaned_text": "HDFC Large Cap Fund Direct Growth\n\n Holdings (45)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n RBRahul BaijalJul 2022- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC Large Cap Fund Direct Growth\n\n AboutHDFC Large Cap Fund Direct Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0. 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,851   -3. 58%\n\n3 years  ₹1,80,000  ₹1,88,545   4. 75%\n\n5 years  ₹3,00,000  ₹3,77,245   25. 75%\n\n10 years  ₹6,00,000  ₹11,44,634   90. 77%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd.  Financial  Equity  9. 15%\n\nHDFC Bank Ltd.  Financial  Equity  7. 84%\n\nBharti Airtel Ltd.  Communication  Equity  5. 90%\n\nReliance Industries Ltd.  Energy  Equity  5. 61%\n\nKotak Mahindra Bank Ltd.  Financial  Equity  5. 47%\n\nTitan Company Ltd.  Consumer Discretionary  Equity  4. 74%\n\nAxis Bank Ltd.  Financial  Equity  3. 56%\n\nTorrent Pharmaceuticals Ltd.  Healthcare  Equity  3. 49%\n\nInfosys Ltd.  Technology  Equity  3. 01%\n\nBajaj Auto Ltd.  Automobile  Equity  2. 95%\n\nLupin Ltd.  Healthcare  Equity  2. 79%\n\nBajaj Finserv Ltd.  Financial  Equity  2. 73%\n\nAmbuja Cements Ltd.  Construction  Equity  2. 60%\n\nState Bank of India  Financial  Equity  2. 43%\n\nNTPC Ltd.  Energy  Equity  2. 34%\n\nCholamandalam Investment and Finance Company Ltd.  Financial  Equity  2. 15%\n\nEternal Ltd. 96%\n\nTata Motors Ltd. 84%\n\nMax Healthcare Institute Ltd.  Healthcare  Equity  1. 72%\n\nInterglobe Aviation Ltd. 69%\n\nUnited Spirits Ltd.  Consumer Staples  Equity  1. 66%\n\nMankind Pharma Ltd.  Healthcare  Equity  1. 61%\n\nVishal Mega Mart Ltd. 58%\n\nTata Consumer Products Ltd.  Consumer Staples  Equity  1. 52%\n\nIndusind Bank Ltd.  Financial  Equity  1. 48%\n\nHavells India Ltd.  Capital Goods  Equity  1. 41%\n\nLarsen  Toubro Ltd.  Construction  Equity  1. 38%\n\nICICI Prudential Asset Management Company Ltd.  Financial  Equity  1. 18%\n\nEicher Motors Ltd. 06%\n\nSwiggy Ltd. 05%\n\nHyundai Motor India Ltd. 04%\n\nMaruti Suzuki India Ltd. 99%\n\nSRF Ltd.  Chemicals  Equity  0. 92%\n\nMahindra  Mahindra Ltd. 80%\n\nDabur India Ltd.  Consumer Staples  Equity  0. 80%\n\nCG Power and Industrial Solutions Ltd.  Capital Goods  Equity  0. 58%\n\nTata Capital Ltd.  Financial  Equity  0. 54%\n\nGOI  Sovereign  GOI Sec  0. 49%\n\nTata Motors Passenger Vehicles Ltd. 48%\n\nDLF Ltd.  Construction  Equity  0. 33%\n\nBillionbrains Garage Ventures Ltd.  Financial  Equity  0. 33%\n\nCummins India Ltd.  Capital Goods  Equity  0. 32%\n\nHindalco Industries Ltd.  Metals  Mining  Equity  0. 24%\n\nSBI Life Insurance Company Ltd.  Insurance  Equity  0. 19%\n\nName  3Y  5Y  10Y  All\n\nFund returns  11. 8%  12. 5%  13. 3%  13. 0%\n\nCategory average (Equity Large Cap)  15. 1%  15. 0%  13. 2%  --\n\nRank (Equity Large Cap)  45  20  12  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Invesco India Largecap Fund Direct Growth  1. 15%  15. 58%  1,721. 89\n\n WhiteOak Capital Large Cap Fund Direct Growth  0. 08%  15. 08%  1,163. 57\n\n Nippon India Large Cap Fund Direct Growth  -0. 70%  15. 06%  51,690. 28\n\n ICICI Prudential Large Cap Fund Direct Growth  -2. 25%  14. 51%  75,650. 43\n\n DSP Large Cap Fund Direct Growth  -4. 25%  14. 22%  7,192. 01\n\nCompare",
+  "cleaned_text": "HDFC Large Cap Fund Direct Growth\n\n Holdings (47)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n RBRahul BaijalJul 2022- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC Large Cap Fund Direct Growth\n\n AboutHDFC Large Cap Fund Direct Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0. 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,126   -4. 79%\n\n3 years  ₹1,80,000  ₹1,85,113   2. 84%\n\n5 years  ₹3,00,000  ₹3,71,917   23. 97%\n\n10 years  ₹6,00,000  ₹11,30,433   88. 41%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  9. 15%\n\nHDFC Bank Ltd  Financial  Equity  7. 84%\n\nBharti Airtel Ltd  Technology  Equity  5. 90%\n\nReliance Industries Ltd  Energy  Utilities  Equity  5. 61%\n\nKotak Mahindra Bank Ltd  Financial  Equity  5. 47%\n\nTitan Company Ltd  Consumer Discretionary  Equity  4. 74%\n\nAxis Bank Ltd  Financial  Equity  3. 56%\n\nTorrent Pharmaceuticals Ltd  Healthcare  Equity  3. 49%\n\nInfosys Ltd  Technology  Equity  3. 01%\n\nBajaj Auto Ltd  Consumer Discretionary  Equity  2. 95%\n\nLupin Ltd  Healthcare  Equity  2. 79%\n\nBajaj Finserv Ltd  Financial  Equity  2. 73%\n\nAmbuja Cements Ltd  Materials  Equity  2. 60%\n\nRepo  Unspecified  Repo  2. 53%\n\nState Bank of India  Financial  Equity  2. 43%\n\nNTPC Ltd  Energy  Utilities  Equity  2. 34%\n\nCholamandalam Investment  Finance Company Ltd  Financial  Equity  2. 15%\n\nZomato Ltd  Technology  Equity  1. 96%\n\nTata Motors Ltd  Industrials  Equity  1. 84%\n\nMax Healthcare Institute Ltd  Healthcare  Equity  1. 72%\n\nInterglobe Aviation Ltd  Industrials  Equity  1. 69%\n\nUnited Spirits Ltd  Consumer Staples  Equity  1. 66%\n\nMankind Pharma Ltd.  Healthcare  Equity  1. 61%\n\nVishal Mega Mart Ltd.  Consumer Staples  Equity  1. 58%\n\nTata Consumer Products Ltd  Consumer Staples  Equity  1. 52%\n\nIndusind Bank Ltd  Financial  Equity  1. 48%\n\nHavells India Ltd  Consumer Discretionary  Equity  1. 41%\n\nLarsen  Toubro Ltd  Industrials  Equity  1. 38%\n\nICICI Prudential Asset Management Company Ltd.  Financial  Equity  1. 18%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  1. 06%\n\nSwiggy Ltd.  Technology  Equity  1. 05%\n\nHyundai Motor India Ltd.  Consumer Discretionary  Equity  1. 04%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  0. 99%\n\nSRF Ltd  Materials  Equity  0. 92%\n\nMahindra  Mahindra Ltd  Consumer Discretionary  Equity  0. 80%\n\nDabur India Ltd  Consumer Staples  Equity  0. 80%\n\nCG Power  Industrial Solutions Ltd  Industrials  Equity  0. 58%\n\nNet Current Assets  Unspecified  Net Current Assets  0. 57%\n\nTATA CAPITAL LIMITED EQ  Financial  Equity  0. 54%\n\nGOVERNMENT OF INDIA 36185 GOI 07JL40 6. 68 FV RS 100  Entities  GOI Securities  0. 49%\n\nTata Motors Ltd  Consumer Discretionary  Equity  0. 48%\n\nDLF Ltd  Real Estate  Equity  0. 33%\n\nBillionbrains Garage Ventures Ltd.  Financial  Equity  0. 33%\n\nCummins India Ltd  Industrials  Equity  0. 32%\n\nHindalco Industries Ltd  Materials  Equity  0. 24%\n\nSBI Life Insurance Company Ltd  Financial  Equity  0. 19%\n\nName  3Y  5Y  10Y  All\n\nFund returns  11. 3%  12. 2%  13. 1%  12. 9%\n\nCategory average (Equity Large Cap)  15. 1%  15. 0%  13. 2%  --\n\nRank (Equity Large Cap)  46  20  12  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Invesco India Largecap Fund Direct Growth  0. 87%  15. 34%  1,721. 89\n\n WhiteOak Capital Large Cap Fund Direct Growth  -0. 42%  14. 74%  1,163. 57\n\n Nippon India Large Cap Fund Direct Growth  -1. 81%  14. 52%  51,690. 28\n\n ICICI Prudential Large Cap Fund Direct Growth  -2. 98%  14. 09%  75,650. 43\n\n DSP Large Cap Fund Direct Growth  -4. 96%  13. 66%  7,192. 01\n\nCompare",
   "statistics": {
-    "original_size": 370640,
-    "cleaned_size": 3359,
+    "original_size": 372683,
+    "cleaned_size": 3788,
     "headings_count": 27,
     "paragraphs_count": 6,
     "lists_count": 0,
