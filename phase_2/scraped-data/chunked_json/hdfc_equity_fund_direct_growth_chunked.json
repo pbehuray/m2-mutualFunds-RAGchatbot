@@ -6,10 +6,10 @@
     "overlap": 100,
     "min_chunk_size": 100
   },
-  "total_chunks": 5,
+  "total_chunks": 6,
   "chunks": [
     {
-      "text": "HDFC Flexi Cap Direct Plan Growth\n\n Holdings (68)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AGAmit GanatraFeb 2026- PresentView details\n\n AboutHDFC Flexi Cap Direct Plan Growth\n\n AboutHDFC Flexi Cap Direct Plan Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹58,146   -3 09%\n\n3 years  ₹1,80,000  ₹2,01,653   12 03%\n\n5 years  ₹3,00,000  ₹4,30,017   43 34%\n\n10 years  ₹6,00,000  ₹14,40,296   140 05%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd Financial  Equity  8",
+      "text": "HDFC Flexi Cap Direct Plan Growth\n\n Holdings (70)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AGAmit GanatraFeb 2026- PresentView details\n\n AboutHDFC Flexi Cap Direct Plan Growth\n\n AboutHDFC Flexi Cap Direct Plan Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹58,225   -2 96%\n\n3 years  ₹1,80,000  ₹2,01,617   12 01%\n\n5 years  ₹3,00,000  ₹4,29,650   43 22%\n\n10 years  ₹6,00,000  ₹14,38,780   139 80%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  8",
       "metadata": {
         "scheme_name": "Hdfc Equity Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
@@ -22,10 +22,10 @@
         "chunk_type": "subsection",
         "subchunk_id": 0,
         "chunk_index": 0,
-        "total_chunks": 5,
-        "chunk_length": 797,
+        "total_chunks": 6,
+        "chunk_length": 798,
         "word_count": 106,
-        "created_at": "2026-06-09T08:08:04.524457",
+        "created_at": "2026-06-10T08:33:14.284883",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -41,10 +41,10 @@
         }
       },
       "start_position": 0,
-      "end_position": 797
+      "end_position": 798
     },
     {
-      "text": "05%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd Financial  Equity  8 69%\n\nAxis Bank Ltd Financial  Equity  6 83%\n\nHDFC Bank Ltd Financial  Equity  6 81%\n\nState Bank of India  Financial  Equity  4 74%\n\nSBI Life Insurance Company Ltd Insurance  Equity  3 79%\n\nKotak Mahindra Bank Ltd Financial  Equity  3 47%\n\nLarsen  Toubro Ltd Construction  Equity  3 35%\n\nBharti Airtel Ltd Communication  Equity  3 10%\n\nMaruti Suzuki India Ltd Automobile  Equity  2 78%\n\nPower Grid Corporation Of India Ltd Energy  Equity  2 78%\n\nCipla Ltd Healthcare  Equity  2 74%\n\nEternal Ltd Services  Equity  2 55%\n\nHCL Technologies Ltd Technology  Equity  2 54%\n\nEicher Motors Ltd Automobile  Equity  2 46%\n\nInterglobe Aviation Ltd Services  Equity  2 43%\n\nReliance Industries Ltd Energy  Equity  2 19%\n\nBajaj Auto Ltd 99%\n\nJSW Steel Ltd",
+      "text": "80%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  8 69%\n\nAxis Bank Ltd  Financial  Equity  6 83%\n\nHDFC Bank Ltd  Financial  Equity  6 81%\n\nState Bank of India  Financial  Equity  4 74%\n\nRepo  Unspecified  Repo  4 47%\n\nSBI Life Insurance Company Ltd  Financial  Equity  3 79%\n\nKotak Mahindra Bank Ltd  Financial  Equity  3 47%\n\nLarsen  Toubro Ltd  Industrials  Equity  3 35%\n\nBharti Airtel Ltd  Technology  Equity  3 10%\n\nPower Grid Corporation of India Ltd  Energy  Utilities  Equity  2 78%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  2 78%\n\nCipla Ltd  Healthcare  Equity  2 74%\n\nZomato Ltd  Technology  Equity  2 55%\n\nHCL Technologies Ltd  Technology  Equity  2 54%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  2 46%\n\nInterglobe Aviation Ltd  Industrials  Equity  2",
       "metadata": {
         "scheme_name": "Hdfc Equity Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
@@ -57,10 +57,10 @@
         "chunk_type": "subsection",
         "subchunk_id": 1,
         "chunk_index": 1,
-        "total_chunks": 5,
-        "chunk_length": 817,
-        "word_count": 130,
-        "created_at": "2026-06-09T08:08:04.524502",
+        "total_chunks": 6,
+        "chunk_length": 812,
+        "word_count": 123,
+        "created_at": "2026-06-10T08:33:14.284930",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -68,18 +68,18 @@
         "has_currency": false,
         "has_percentage": true,
         "sentence_count": 1,
-        "avg_sentence_length": 130.0,
+        "avg_sentence_length": 123.0,
         "chunk_id": "hdfc_equity_fund_direct_growth_subsection_1",
         "validation": {
           "is_valid": false,
           "quality_score": 0.8
         }
       },
-      "start_position": 797,
-      "end_position": 1614
+      "start_position": 798,
+      "end_position": 1610
     },
     {
-      "text": "43%\n\nReliance Industries Ltd Energy  Equity  2 19%\n\nBajaj Auto Ltd 99%\n\nJSW Steel Ltd Metals  Mining  Equity  1 72%\n\nNexus Select Trust  Construction  REITs  1 70%\n\nHyundai Motor India Ltd 63%\n\nInfosys Ltd Technology  Equity  1 57%\n\nTata Steel Ltd Metals  Mining  Equity  1 45%\n\nPiramal Pharma Ltd 45%\n\nMax Healthcare Institute Ltd 42%\n\nBank Of Baroda  Financial  Equity  1 36%\n\nDivis Laboratories Ltd 17%\n\nPersistent Systems Ltd Technology  Equity  1 17%\n\nBosch Ltd 09%\n\nPB Fintech Ltd 94%\n\nFSN E-Commerce Ventures Ltd 82%\n\nOil And Natural Gas Corporation Ltd Energy  Equity  0 79%\n\nLupin Ltd 76%\n\nUnited Spirits Ltd Consumer Staples  Equity  0 76%\n\nVishal Mega Mart Ltd 71%\n\nHavells India Ltd 61%\n\nDr Lal Pathlabs Ltd 57%\n\nVarroc Engineering Ltd 57%\n\nAnthem Biosciences Ltd 57%\n\nEmbassy Office Parks REIT  Construction  REITs  0",
+      "text": "46%\n\nInterglobe Aviation Ltd  Industrials  Equity  2 43%\n\nReliance Industries Ltd  Energy  Utilities  Equity  2 19%\n\nBajaj Auto Ltd  Consumer Discretionary  Equity  1 99%\n\nJSW Steel Ltd  Materials  Equity  1 72%\n\nNexus Select Trust  Industrials  Real Estate Investment Trusts  1 70%\n\nHyundai Motor India Ltd Consumer Discretionary  Equity  1 63%\n\nInfosys Ltd  Technology  Equity  1 57%\n\nPiramal Pharma Ltd  Healthcare  Equity  1 45%\n\nTata Steel Ltd  Materials  Equity  1 45%\n\nMax Healthcare Institute Ltd  Healthcare  Equity  1 42%\n\nBank Of Baroda  Financial  Equity  1 36%\n\nDivis Laboratories Ltd  Healthcare  Equity  1 17%\n\nPersistent Systems Ltd  Technology  Equity  1 17%\n\nBosch Ltd  Consumer Discretionary  Equity  1 09%\n\nPB Fintech Ltd  Financial  Equity  0",
       "metadata": {
         "scheme_name": "Hdfc Equity Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
@@ -92,10 +92,10 @@
         "chunk_type": "subsection",
         "subchunk_id": 2,
         "chunk_index": 2,
-        "total_chunks": 5,
-        "chunk_length": 830,
-        "word_count": 135,
-        "created_at": "2026-06-09T08:08:04.524532",
+        "total_chunks": 6,
+        "chunk_length": 763,
+        "word_count": 112,
+        "created_at": "2026-06-10T08:33:14.284958",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -103,18 +103,18 @@
         "has_currency": false,
         "has_percentage": true,
         "sentence_count": 1,
-        "avg_sentence_length": 135.0,
+        "avg_sentence_length": 112.0,
         "chunk_id": "hdfc_equity_fund_direct_growth_subsection_2",
         "validation": {
           "is_valid": false,
           "quality_score": 0.8
         }
       },
-      "start_position": 1614,
-      "end_position": 2444
+      "start_position": 1610,
+      "end_position": 2373
     },
     {
-      "text": "57%\n\nAnthem Biosciences Ltd 57%\n\nEmbassy Office Parks REIT  Construction  REITs  0 55%\n\nApollo Hospitals Enterprise Ltd 55%\n\nKalpataru Projects International Ltd 54%\n\nBritannia Industries Ltd Consumer Staples  Equity  0 54%\n\nNuvoco Vistas Corporation Ltd 52%\n\nCyient Ltd 48%\n\nPrestige Estates Projects Ltd 47%\n\nCIE Automotive India Ltd Metals  Mining  Equity  0 47%\n\nSapphire Foods India Ltd 41%\n\nBSE Ltd 40%\n\nCrompton Greaves Consumer Electricals Ltd Consumer Discretionary  Equity  0 39%\n\nEscorts Kubota Ltd 39%\n\nAster DM Healthcare Ltd 37%\n\nThe Ramco Cements Ltd 37%\n\nDixon Technologies (India) Ltd 35%\n\nAshok Leyland Ltd 33%\n\nJK Lakshmi Cement Ltd 32%\n\nMetropolis Healthcare Ltd 31%\n\nGOI  Sovereign  GOI Sec  0 29%\n\nSwiggy Ltd 29%\n\nMulti Commodity Exchange Of India Ltd 24%\n\nRestaurant Brands Asia Ltd",
+      "text": "17%\n\nBosch Ltd  Consumer Discretionary  Equity  1 09%\n\nPB Fintech Ltd  Financial  Equity  0 94%\n\nFSN E-Commerce Ventures Ltd  Consumer Discretionary  Equity  0 82%\n\nOil  Natural Gas Corporation Ltd  Energy  Utilities  Equity  0 79%\n\nLupin Ltd  Healthcare  Equity  0 76%\n\nUnited Spirits Ltd  Consumer Staples  Equity  0 76%\n\nVishal Mega Mart Ltd Consumer Staples  Equity  0 71%\n\nHavells India Ltd  Consumer Discretionary  Equity  0 61%\n\nAnthem Biosciences Ltd Healthcare  Equity  0 57%\n\nDr Lal Pathlabs Ltd  Healthcare  Equity  0 57%\n\nVarroc Engineering Ltd  Consumer Discretionary  Equity  0 57%\n\nApollo Hospitals Enterprise Ltd  Healthcare  Equity  0 55%\n\nEmbassy Office Parks REIT  Real Estate  Real Estate Investment Trusts  0 55%\n\nBritannia Industries Ltd  Consumer Staples  Equity  0",
       "metadata": {
         "scheme_name": "Hdfc Equity Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
@@ -127,10 +127,10 @@
         "chunk_type": "subsection",
         "subchunk_id": 3,
         "chunk_index": 3,
-        "total_chunks": 5,
-        "chunk_length": 805,
-        "word_count": 123,
-        "created_at": "2026-06-09T08:08:04.524557",
+        "total_chunks": 6,
+        "chunk_length": 788,
+        "word_count": 115,
+        "created_at": "2026-06-10T08:33:14.284982",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -138,18 +138,18 @@
         "has_currency": false,
         "has_percentage": true,
         "sentence_count": 1,
-        "avg_sentence_length": 123.0,
+        "avg_sentence_length": 115.0,
         "chunk_id": "hdfc_equity_fund_direct_growth_subsection_3",
         "validation": {
-          "is_valid": true,
-          "quality_score": 1.0
+          "is_valid": false,
+          "quality_score": 0.8
         }
       },
-      "start_position": 2444,
-      "end_position": 3249
+      "start_position": 2373,
+      "end_position": 3161
     },
     {
-      "text": "29%\n\nSwiggy Ltd 29%\n\nMulti Commodity Exchange Of India Ltd 24%\n\nRestaurant Brands Asia Ltd 22%\n\nTata Consultancy Services Ltd 17%\n\nCohance Lifesciences Ltd 16%\n\nBirlasoft Ltd 16%\n\nGOI  Sovereign  GOI Sec  0 11%\n\nGOI  Sovereign  GOI Sec  0 10%\n\nHindustan Petroleum Corporation Ltd Energy  Equity  0 04%\n\nBharat Electronics Ltd 02%\n\nRamco Systems Ltd 00%\n\nName  3Y  5Y  10Y  All\n\nFund returns  17 6%  17 6%  16 5%  15 8%\n\nCategory average (Equity Flexi Cap)  16 0%  15 6%  13 5%  --\n\nRank (Equity Flexi Cap)  13  4  4  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n ITI Flexi Cap Fund Direct Growth  5 63%  19 99%  1,290 33\n\n HSBC Flexi Cap Fund Direct Growth  2 60%  18 01%  5,405 12\n\n HDFC Flexi Cap Direct Plan Growth  -0 14%  17 56%  1,00,479 23\n\n Parag Parikh Flexi Cap Fund Direct Growth  -1 19%  15 12%  1,40,949",
+      "text": "55%\n\nBritannia Industries Ltd  Consumer Staples  Equity  0 54%\n\nKalpataru Power Transmission Ltd  Industrials  Equity  0 54%\n\nNUVOCO Vistas Corp Ltd  Materials  Equity  0 52%\n\nCyient Ltd  Technology  Equity  0 48%\n\nMahindra CIE Automotive Ltd  Consumer Discretionary  Equity  0 47%\n\nPrestige Estates Projects Ltd  Real Estate  Equity  0 47%\n\nSapphire Foods India Ltd  Consumer Discretionary  Equity  0 41%\n\nBSE Ltd  Financial  Equity  0 40%\n\nEscorts Kubota Ltd  Industrials  Equity  0 39%\n\nCrompton Greaves Consumer Electricals Ltd  Consumer Discretionary  Equity  0 39%\n\nThe Ramco Cements Ltd  Materials  Equity  0 37%\n\nAster DM Healthcare Ltd  Healthcare  Equity  0 37%\n\nDixon Technologies (India) Ltd  Consumer Discretionary  Equity  0 35%\n\nAshok Leyland Ltd  Industrials  Equity  0",
       "metadata": {
         "scheme_name": "Hdfc Equity Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
@@ -162,10 +162,10 @@
         "chunk_type": "subsection",
         "subchunk_id": 4,
         "chunk_index": 4,
-        "total_chunks": 5,
-        "chunk_length": 805,
-        "word_count": 144,
-        "created_at": "2026-06-09T08:08:04.524581",
+        "total_chunks": 6,
+        "chunk_length": 785,
+        "word_count": 112,
+        "created_at": "2026-06-10T08:33:14.285004",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -173,22 +173,57 @@
         "has_currency": false,
         "has_percentage": true,
         "sentence_count": 1,
-        "avg_sentence_length": 144.0,
+        "avg_sentence_length": 112.0,
         "chunk_id": "hdfc_equity_fund_direct_growth_subsection_4",
         "validation": {
           "is_valid": false,
           "quality_score": 0.8
         }
       },
-      "start_position": 3249,
-      "end_position": 4054
+      "start_position": 3161,
+      "end_position": 3946
+    },
+    {
+      "text": "35%\n\nAshok Leyland Ltd  Industrials  Equity  0 33%\n\nJK Lakshmi Cement Ltd  Materials  Equity  0 32%\n\nMetropolis Healthcare Ltd  Healthcare  Equity  0 31%\n\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7 38 FV RS 100  Entities  GOI Securities  0 29%\n\nSwiggy Ltd Technology  Equity  0 29%\n\nMulti Commodity Exchange Of India Ltd  Financial  Equity  0 24%\n\nRestaurant Brands Asia Ltd  Consumer Discretionary  Equity  0 22%\n\nTata Consultancy Services Ltd  Technology  Equity  0 17%\n\nBirlasoft Ltd  Technology  Equity  0 16%\n\nSuven Pharmaceuticals Ltd  Healthcare  Equity  0 16%\n\nGOVERNMENT OF INDIA 33618 GOI 13NV30 7 32 FV RS 100  Entities  GOI Securities  0 11%\n\n7 37% GOI CG 23-10-2028  Entities  GOI Securities  0 10%\n\nHindustan Petroleum Corporation Ltd  Energy  Utilities  Equity  0",
+      "metadata": {
+        "scheme_name": "Hdfc Equity Fund Direct Growth",
+        "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
+        "chunk_size_config": {
+          "chunk_size": 800,
+          "overlap": 100,
+          "min_chunk_size": 100
+        },
+        "section_header": "Introduction",
+        "chunk_type": "subsection",
+        "subchunk_id": 5,
+        "chunk_index": 5,
+        "total_chunks": 6,
+        "chunk_length": 774,
+        "word_count": 119,
+        "created_at": "2026-06-10T08:33:14.285025",
+        "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
+        "document_type": "json",
+        "source_domain": "",
+        "has_numbers": true,
+        "has_currency": false,
+        "has_percentage": true,
+        "sentence_count": 1,
+        "avg_sentence_length": 119.0,
+        "chunk_id": "hdfc_equity_fund_direct_growth_subsection_5",
+        "validation": {
+          "is_valid": false,
+          "quality_score": 0.8
+        }
+      },
+      "start_position": 3946,
+      "end_position": 4720
     }
   ],
   "validation_summary": {
-    "total_chunks": 5,
-    "valid_chunks": 2,
-    "invalid_chunks": 3,
-    "average_quality_score": 0.8800000000000001
+    "total_chunks": 6,
+    "valid_chunks": 1,
+    "invalid_chunks": 5,
+    "average_quality_score": 0.8333333333333334
   },
   "validation_results": [
     {
@@ -215,12 +250,22 @@
     },
     {
       "chunk_id": "hdfc_equity_fund_direct_growth_subsection_3",
-      "is_valid": true,
-      "issues": [],
-      "quality_score": 1.0
+      "is_valid": false,
+      "issues": [
+        "Chunk has excessive repetition"
+      ],
+      "quality_score": 0.8
     },
     {
       "chunk_id": "hdfc_equity_fund_direct_growth_subsection_4",
+      "is_valid": false,
+      "issues": [
+        "Chunk has excessive repetition"
+      ],
+      "quality_score": 0.8
+    },
+    {
+      "chunk_id": "hdfc_equity_fund_direct_growth_subsection_5",
       "is_valid": false,
       "issues": [
         "Chunk has excessive repetition"
