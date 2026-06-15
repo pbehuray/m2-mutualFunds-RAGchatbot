@@ -25,7 +25,7 @@
         "total_chunks": 4,
         "chunk_length": 792,
         "word_count": 103,
-        "created_at": "2026-06-14T08:34:17.560835",
+        "created_at": "2026-06-15T10:44:42.968598",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -44,7 +44,7 @@
       "end_position": 792
     },
     {
-      "text": "27%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  9 02%\n\nHDFC Bank Ltd  Financial  Equity  8 41%\n\nRepo  Unspecified  Repo  7 31%\n\nAxis Bank Ltd  Financial  Equity  7 27%\n\nState Bank of India  Financial  Equity  5 76%\n\nKotak Mahindra Bank Ltd  Financial  Equity  5 53%\n\nHCL Technologies Ltd  Technology  Equity  3 89%\n\nBharti Airtel Ltd  Technology  Equity  3 69%\n\nSBI Life Insurance Company Ltd  Financial  Equity  3 58%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  3 58%\n\nZomato Ltd  Technology  Equity  3 53%\n\nCipla Ltd  Healthcare  Equity  3 49%\n\nPower Grid Corporation of India Ltd  Energy  Utilities  Equity  3 28%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  3 24%\n\nInterglobe Aviation Ltd  Industrials  Equity  3 05%\n\nTata Steel Ltd  Materials  Equity  2",
+      "text": "27%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  9 01%\n\nHDFC Bank Ltd  Financial  Equity  8 14%\n\nRepo  Unspecified  Repo  7 60%\n\nAxis Bank Ltd  Financial  Equity  7 40%\n\nKotak Mahindra Bank Ltd  Financial  Equity  5 56%\n\nState Bank of India  Financial  Equity  5 22%\n\nHCL Technologies Ltd  Technology  Equity  3 86%\n\nCipla Ltd  Healthcare  Equity  3 75%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  3 70%\n\nZomato Ltd  Technology  Equity  3 67%\n\nSBI Life Insurance Company Ltd  Financial  Equity  3 62%\n\nInterglobe Aviation Ltd  Industrials  Equity  3 40%\n\nBharti Airtel Ltd  Technology  Equity  3 39%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  3 29%\n\nPower Grid Corporation of India Ltd  Energy  Utilities  Equity  3 01%\n\nTata Steel Ltd  Materials  Equity  2",
       "metadata": {
         "scheme_name": "Hdfc Focused Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
@@ -60,7 +60,7 @@
         "total_chunks": 4,
         "chunk_length": 806,
         "word_count": 123,
-        "created_at": "2026-06-14T08:34:17.560894",
+        "created_at": "2026-06-15T10:44:42.968656",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -79,7 +79,7 @@
       "end_position": 1598
     },
     {
-      "text": "24%\n\nInterglobe Aviation Ltd  Industrials  Equity  3 05%\n\nTata Steel Ltd  Materials  Equity  2 58%\n\nHavells India Ltd  Consumer Discretionary  Equity  2 54%\n\nKarur Vysya Bank Ltd  Financial  Equity  2 11%\n\nFSN E-Commerce Ventures Ltd  Consumer Discretionary  Equity  2 02%\n\nNexus Select Trust  Industrials  Real Estate Investment Trusts  1 78%\n\nBosch Ltd  Consumer Discretionary  Equity  1 73%\n\nEscorts Kubota Ltd  Industrials  Equity  1 67%\n\nPiramal Pharma Ltd  Healthcare  Equity  1 60%\n\nHyundai Motor India Ltd Consumer Discretionary  Equity  1 60%\n\nChalet Hotels Ltd  Consumer Discretionary  Equity  1 58%\n\nAmber Enterprises India Ltd  Consumer Discretionary  Equity  1 58%\n\nMahindra CIE Automotive Ltd  Consumer Discretionary  Equity  1 28%\n\nMetropolis Healthcare Ltd  Healthcare  Equity  1",
+      "text": "01%\n\nTata Steel Ltd  Materials  Equity  2 55%\n\nHavells India Ltd  Consumer Discretionary  Equity  2 42%\n\nKarur Vysya Bank Ltd  Financial  Equity  2 08%\n\nFSN E-Commerce Ventures Ltd  Consumer Discretionary  Equity  2 01%\n\nBosch Ltd  Consumer Discretionary  Equity  1 90%\n\nHyundai Motor India Ltd Consumer Discretionary  Equity  1 88%\n\nNexus Select Trust  Industrials  Real Estate Investment Trusts  1 79%\n\nChalet Hotels Ltd  Consumer Discretionary  Equity  1 67%\n\nAmber Enterprises India Ltd  Consumer Discretionary  Equity  1 51%\n\nEscorts Kubota Ltd  Industrials  Equity  1 48%\n\nMetropolis Healthcare Ltd  Healthcare  Equity  1 45%\n\nPiramal Pharma Ltd  Healthcare  Equity  1 42%\n\nMahindra CIE Automotive Ltd  Consumer Discretionary  Equity  1 22%\n\nCG Power  Industrial Solutions Ltd  Industrials  Equity  0",
       "metadata": {
         "scheme_name": "Hdfc Focused Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
@@ -93,9 +93,9 @@
         "subchunk_id": 2,
         "chunk_index": 2,
         "total_chunks": 4,
-        "chunk_length": 795,
-        "word_count": 112,
-        "created_at": "2026-06-14T08:34:17.560926",
+        "chunk_length": 806,
+        "word_count": 114,
+        "created_at": "2026-06-15T10:44:42.968688",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -103,7 +103,7 @@
         "has_currency": false,
         "has_percentage": true,
         "sentence_count": 1,
-        "avg_sentence_length": 112.0,
+        "avg_sentence_length": 114.0,
         "chunk_id": "hdfc_focused_fund_direct_growth_subsection_2",
         "validation": {
           "is_valid": false,
@@ -111,10 +111,10 @@
         }
       },
       "start_position": 1598,
-      "end_position": 2393
+      "end_position": 2404
     },
     {
-      "text": "28%\n\nMetropolis Healthcare Ltd  Healthcare  Equity  1 24%\n\nSapphire Foods India Ltd  Consumer Discretionary  Equity  0 72%\n\nCG Power  Industrial Solutions Ltd  Industrials  Equity  0 59%\n\nRestaurant Brands Asia Ltd  Consumer Discretionary  Equity  0 56%\n\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7 38 FV RS 100  Entities  GOI Securities  0 19%\n\nNet Payables  Unspecified  Net Payables  -0 01%\n\nName  3Y  5Y  10Y  All\n\nFund returns  17 6%  19 3%  15 2%  14 7%\n\nCategory average (Equity Flexi Cap)  16 0%  15 6%  13 5%  --\n\nRank (Equity Flexi Cap)  13  2  10  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n ITI Flexi Cap Fund Direct Growth  6 19%  20 04%  1,314 38\n\n HDFC Flexi Cap Direct Plan Growth  0 86%  17 82%  1,01,821 82\n\n HSBC Flexi Cap Fund Direct Growth  2 03%  17 74%  5,538 48\n\n Parag Parikh Flexi Cap Fund Direct Growth  -1",
+      "text": "22%\n\nCG Power  Industrial Solutions Ltd  Industrials  Equity  0 80%\n\nSapphire Foods India Ltd  Consumer Discretionary  Equity  0 64%\n\nRestaurant Brands Asia Ltd  Consumer Discretionary  Equity  0 59%\n\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7 38 FV RS 100  Entities  GOI Securities  0 19%\n\nNet Payables  Unspecified  Net Payables  -0 22%\n\nName  3Y  5Y  10Y  All\n\nFund returns  17 6%  19 3%  15 2%  14 7%\n\nCategory average (Equity Flexi Cap)  16 0%  15 6%  13 5%  --\n\nRank (Equity Flexi Cap)  14  2  10  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n ITI Flexi Cap Fund Direct Growth  6 19%  20 04%  1,314 38\n\n HDFC Flexi Cap Direct Plan Growth  0 86%  17 82%  1,01,821 82\n\n HSBC Flexi Cap Fund Direct Growth  2 03%  17 74%  5,538 48\n\n Parag Parikh Flexi Cap Fund Direct Growth  -1 94%  15 45%  1,41,446",
       "metadata": {
         "scheme_name": "Hdfc Focused Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
@@ -128,9 +128,9 @@
         "subchunk_id": 3,
         "chunk_index": 3,
         "total_chunks": 4,
-        "chunk_length": 819,
-        "word_count": 142,
-        "created_at": "2026-06-14T08:34:17.560958",
+        "chunk_length": 787,
+        "word_count": 139,
+        "created_at": "2026-06-15T10:44:42.968720",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -138,15 +138,15 @@
         "has_currency": false,
         "has_percentage": true,
         "sentence_count": 1,
-        "avg_sentence_length": 142.0,
+        "avg_sentence_length": 139.0,
         "chunk_id": "hdfc_focused_fund_direct_growth_subsection_3",
         "validation": {
           "is_valid": false,
           "quality_score": 0.8
         }
       },
-      "start_position": 2393,
-      "end_position": 3212
+      "start_position": 2404,
+      "end_position": 3191
     }
   ],
   "validation_summary": {

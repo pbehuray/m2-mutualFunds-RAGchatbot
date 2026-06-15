@@ -10,7 +10,7 @@
       },
       {
         "level": 2,
-        "text": "Holdings (58)",
+        "text": "Holdings (59)",
         "tag": "h2"
       },
       {
@@ -192,139 +192,157 @@
             "ICICI Bank Ltd",
             "Financial",
             "Equity",
-            "8.93%"
+            "8.99%"
           ],
           [
             "HDFC Bank Ltd",
             "Financial",
             "Equity",
-            "8.23%"
+            "8.04%"
           ],
           [
             "Axis Bank Ltd",
             "Financial",
             "Equity",
-            "7.22%"
-          ],
-          [
-            "State Bank of India",
-            "Financial",
-            "Equity",
-            "4.81%"
+            "7.42%"
           ],
           [
             "Maruti Suzuki India Ltd",
             "Consumer Discretionary",
             "Equity",
-            "4.71%"
+            "4.70%"
           ],
           [
             "Bharti Airtel Ltd",
             "Technology",
             "Equity",
-            "4.59%"
+            "4.51%"
+          ],
+          [
+            "State Bank of India",
+            "Financial",
+            "Equity",
+            "4.39%"
           ],
           [
             "Kotak Mahindra Bank Ltd",
             "Financial",
             "Equity",
-            "4.31%"
+            "4.38%"
           ],
           [
             "SBI Life Insurance Company Ltd",
             "Financial",
             "Equity",
-            "3.51%"
-          ],
-          [
-            "Repo",
-            "Unspecified",
-            "Repo",
-            "3.12%"
+            "3.57%"
           ],
           [
             "Reliance Industries Ltd",
             "Energy & Utilities",
             "Equity",
-            "3.06%"
+            "2.86%"
           ],
           [
             "HCL Technologies Ltd",
             "Technology",
             "Equity",
-            "2.76%"
+            "2.75%"
           ],
           [
             "Hyundai Motor India Ltd.",
             "Consumer Discretionary",
             "Equity",
-            "2.34%"
+            "2.50%"
+          ],
+          [
+            "Repo",
+            "Unspecified",
+            "Repo",
+            "2.47%"
           ],
           [
             "Power Grid Corporation of India Ltd",
             "Energy & Utilities",
             "Equity",
-            "2.25%"
-          ],
-          [
-            "Tata Steel Ltd",
-            "Materials",
-            "Equity",
-            "2.04%"
-          ],
-          [
-            "Infosys Ltd",
-            "Technology",
-            "Equity",
-            "2.02%"
+            "2.08%"
           ],
           [
             "Bajaj Auto Ltd",
             "Consumer Discretionary",
             "Equity",
-            "1.93%"
+            "2.04%"
           ],
           [
-            "Britannia Industries Ltd",
-            "Consumer Staples",
+            "Tata Steel Ltd",
+            "Materials",
             "Equity",
-            "1.84%"
+            "2.03%"
+          ],
+          [
+            "Infosys Ltd",
+            "Technology",
+            "Equity",
+            "2.01%"
           ],
           [
             "Zomato Ltd",
             "Technology",
             "Equity",
-            "1.79%"
+            "1.83%"
           ],
           [
-            "JSW Steel Ltd",
-            "Materials",
+            "Britannia Industries Ltd",
+            "Consumer Staples",
             "Equity",
-            "1.63%"
+            "1.69%"
           ],
           [
             "Larsen & Toubro Ltd",
             "Industrials",
             "Equity",
-            "1.63%"
+            "1.67%"
+          ],
+          [
+            "JSW Steel Ltd",
+            "Materials",
+            "Equity",
+            "1.66%"
           ],
           [
             "Apollo Hospitals Enterprise Ltd",
             "Healthcare",
             "Equity",
-            "1.35%"
-          ],
-          [
-            "Jubilant FoodWorks Ltd",
-            "Consumer Discretionary",
-            "Equity",
-            "1.22%"
+            "1.46%"
           ],
           [
             "Bosch Ltd",
             "Consumer Discretionary",
             "Equity",
+            "1.19%"
+          ],
+          [
+            "Dr. Lal Pathlabs Ltd",
+            "Healthcare",
+            "Equity",
+            "1.19%"
+          ],
+          [
+            "Metropolis Healthcare Ltd",
+            "Healthcare",
+            "Equity",
             "1.16%"
+          ],
+          [
+            "ICICI Lombard General Insurance Company Ltd",
+            "Financial",
+            "Equity",
+            "1.15%"
+          ],
+          [
+            "Interglobe Aviation Ltd",
+            "Industrials",
+            "Equity",
+            "1.15%"
           ],
           [
             "Karur Vysya Bank Ltd",
@@ -333,146 +351,122 @@
             "1.13%"
           ],
           [
-            "ICICI Lombard General Insurance Company Ltd",
-            "Financial",
-            "Equity",
-            "1.12%"
-          ],
-          [
-            "Interglobe Aviation Ltd",
-            "Industrials",
-            "Equity",
-            "1.10%"
-          ],
-          [
             "Cipla Ltd",
             "Healthcare",
             "Equity",
-            "1.04%"
-          ],
-          [
-            "Escorts Kubota Ltd",
-            "Industrials",
-            "Equity",
-            "1.04%"
-          ],
-          [
-            "Mphasis Ltd",
-            "Technology",
-            "Equity",
-            "1.02%"
-          ],
-          [
-            "Star Health & Allied Insurance Co. Ltd",
-            "Financial",
-            "Equity",
-            "1.01%"
-          ],
-          [
-            "Dr. Lal Pathlabs Ltd",
-            "Healthcare",
-            "Equity",
-            "1.00%"
-          ],
-          [
-            "Metropolis Healthcare Ltd",
-            "Healthcare",
-            "Equity",
-            "0.98%"
-          ],
-          [
-            "Tech Mahindra Ltd",
-            "Technology",
-            "Equity",
-            "0.95%"
+            "1.12%"
           ],
           [
             "Alkem Laboratories Ltd",
             "Healthcare",
             "Equity",
-            "0.95%"
+            "1.11%"
           ],
           [
-            "Godrej Consumer Products Ltd",
-            "Consumer Staples",
+            "Jubilant FoodWorks Ltd",
+            "Consumer Discretionary",
             "Equity",
-            "0.90%"
+            "1.10%"
+          ],
+          [
+            "Mphasis Ltd",
+            "Technology",
+            "Equity",
+            "1.03%"
           ],
           [
             "Lupin Ltd",
             "Healthcare",
             "Equity",
-            "0.89%"
+            "1.03%"
+          ],
+          [
+            "Star Health & Allied Insurance Co. Ltd",
+            "Financial",
+            "Equity",
+            "1.03%"
+          ],
+          [
+            "Tech Mahindra Ltd",
+            "Technology",
+            "Equity",
+            "0.97%"
+          ],
+          [
+            "Escorts Kubota Ltd",
+            "Industrials",
+            "Equity",
+            "0.93%"
           ],
           [
             "United Spirits Ltd",
             "Consumer Staples",
             "Equity",
-            "0.85%"
+            "0.88%"
+          ],
+          [
+            "Godrej Consumer Products Ltd",
+            "Consumer Staples",
+            "Equity",
+            "0.87%"
           ],
           [
             "PB Fintech Ltd",
             "Financial",
             "Equity",
-            "0.84%"
+            "0.87%"
           ],
           [
             "Eicher Motors Ltd",
             "Consumer Discretionary",
             "Equity",
-            "0.82%"
+            "0.84%"
           ],
           [
             "Havells India Ltd",
             "Consumer Discretionary",
             "Equity",
-            "0.72%"
-          ],
-          [
-            "Mahindra & Mahindra Ltd",
-            "Consumer Discretionary",
-            "Equity",
-            "0.70%"
-          ],
-          [
-            "ICICI Prudential Asset Management Company Ltd.",
-            "Financial",
-            "Equity",
-            "0.70%"
+            "0.82%"
           ],
           [
             "Hindustan Unilever Ltd",
             "Consumer Staples",
             "Equity",
-            "0.61%"
+            "0.77%"
           ],
           [
-            "Crompton Greaves Consumer Electricals Ltd",
+            "ICICI Prudential Asset Management Company Ltd.",
+            "Financial",
+            "Equity",
+            "0.76%"
+          ],
+          [
+            "Mahindra & Mahindra Ltd",
             "Consumer Discretionary",
             "Equity",
-            "0.61%"
+            "0.69%"
           ],
           [
             "Birla Corporation Ltd",
             "Materials",
             "Equity",
-            "0.58%"
+            "0.65%"
+          ],
+          [
+            "Crompton Greaves Consumer Electricals Ltd",
+            "Consumer Discretionary",
+            "Equity",
+            "0.64%"
           ],
           [
             "The Ramco Cements Ltd",
             "Materials",
             "Equity",
-            "0.48%"
+            "0.45%"
           ],
           [
             "Westlife Development Ltd",
             "Consumer Discretionary",
-            "Equity",
-            "0.46%"
-          ],
-          [
-            "Suven Pharmaceuticals Ltd",
-            "Healthcare",
             "Equity",
             "0.44%"
           ],
@@ -480,13 +474,19 @@
             "Cyient Ltd",
             "Technology",
             "Equity",
-            "0.38%"
+            "0.40%"
           ],
           [
             "TeamLease Services Ltd",
             "Industrials",
             "Equity",
-            "0.36%"
+            "0.40%"
+          ],
+          [
+            "Suven Pharmaceuticals Ltd",
+            "Healthcare",
+            "Equity",
+            "0.40%"
           ],
           [
             "GOVERNMENT OF INDIA 31719 GOI 20JU27 7.38 FV RS 100",
@@ -498,19 +498,13 @@
             "Popular Vehicles And Services Ltd.",
             "Consumer Discretionary",
             "Equity",
-            "0.32%"
-          ],
-          [
-            "Medi Assist Healthcare Services Ltd.",
-            "Industrials",
-            "Equity",
             "0.31%"
           ],
           [
             "Delhivery Ltd",
             "Industrials",
             "Equity",
-            "0.30%"
+            "0.29%"
           ],
           [
             "Anthem Biosciences Ltd.",
@@ -519,22 +513,34 @@
             "0.24%"
           ],
           [
+            "Medi Assist Healthcare Services Ltd.",
+            "Industrials",
+            "Equity",
+            "0.22%"
+          ],
+          [
             "Bajaj Electricals Ltd",
             "Consumer Discretionary",
             "Equity",
-            "0.23%"
+            "0.19%"
           ],
           [
             "JK Lakshmi Cement Ltd",
             "Materials",
             "Equity",
-            "0.16%"
+            "0.15%"
+          ],
+          [
+            "Tata Motors Ltd",
+            "Industrials",
+            "Equity",
+            "0.15%"
           ],
           [
             "Net Payables",
             "Unspecified",
             "Net Payables",
-            "-0.02%"
+            "-0.10%"
           ]
         ]
       },
@@ -629,10 +635,10 @@
       "A form of tax payable for the purchase or sale of an asset or security."
     ]
   },
-  "cleaned_text": "HDFC ELSS Tax Saver Fund Direct Plan Growth\n\n Holdings (58)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n AKAmar KalkundrikarDec 2025- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC ELSS Tax Saver Fund Direct Plan Growth\n\n AboutHDFC ELSS Tax Saver Fund Direct Plan Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0. 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,600   -4. 00%\n\n3 years  ₹1,80,000  ₹1,95,390   8. 55%\n\n5 years  ₹3,00,000  ₹4,11,324   37. 11%\n\n10 years  ₹6,00,000  ₹12,71,013   111. 84%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  8. 93%\n\nHDFC Bank Ltd  Financial  Equity  8. 23%\n\nAxis Bank Ltd  Financial  Equity  7. 22%\n\nState Bank of India  Financial  Equity  4. 81%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  4. 71%\n\nBharti Airtel Ltd  Technology  Equity  4. 59%\n\nKotak Mahindra Bank Ltd  Financial  Equity  4. 31%\n\nSBI Life Insurance Company Ltd  Financial  Equity  3. 51%\n\nRepo  Unspecified  Repo  3. 12%\n\nReliance Industries Ltd  Energy  Utilities  Equity  3. 06%\n\nHCL Technologies Ltd  Technology  Equity  2. 76%\n\nHyundai Motor India Ltd.  Consumer Discretionary  Equity  2. 34%\n\nPower Grid Corporation of India Ltd  Energy  Utilities  Equity  2. 25%\n\nTata Steel Ltd  Materials  Equity  2. 04%\n\nInfosys Ltd  Technology  Equity  2. 02%\n\nBajaj Auto Ltd  Consumer Discretionary  Equity  1. 93%\n\nBritannia Industries Ltd  Consumer Staples  Equity  1. 84%\n\nZomato Ltd  Technology  Equity  1. 79%\n\nJSW Steel Ltd  Materials  Equity  1. 63%\n\nLarsen  Toubro Ltd  Industrials  Equity  1. 63%\n\nApollo Hospitals Enterprise Ltd  Healthcare  Equity  1. 35%\n\nJubilant FoodWorks Ltd  Consumer Discretionary  Equity  1. 22%\n\nBosch Ltd  Consumer Discretionary  Equity  1. 16%\n\nKarur Vysya Bank Ltd  Financial  Equity  1. 13%\n\nICICI Lombard General Insurance Company Ltd  Financial  Equity  1. 12%\n\nInterglobe Aviation Ltd  Industrials  Equity  1. 10%\n\nCipla Ltd  Healthcare  Equity  1. 04%\n\nEscorts Kubota Ltd  Industrials  Equity  1. 04%\n\nMphasis Ltd  Technology  Equity  1. 02%\n\nStar Health  Allied Insurance Co. Ltd  Financial  Equity  1. 01%\n\nDr. Lal Pathlabs Ltd  Healthcare  Equity  1. 00%\n\nMetropolis Healthcare Ltd  Healthcare  Equity  0. 98%\n\nTech Mahindra Ltd  Technology  Equity  0. 95%\n\nAlkem Laboratories Ltd  Healthcare  Equity  0. 95%\n\nGodrej Consumer Products Ltd  Consumer Staples  Equity  0. 90%\n\nLupin Ltd  Healthcare  Equity  0. 89%\n\nUnited Spirits Ltd  Consumer Staples  Equity  0. 85%\n\nPB Fintech Ltd  Financial  Equity  0. 84%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  0. 82%\n\nHavells India Ltd  Consumer Discretionary  Equity  0. 72%\n\nMahindra  Mahindra Ltd  Consumer Discretionary  Equity  0. 70%\n\nICICI Prudential Asset Management Company Ltd.  Financial  Equity  0. 70%\n\nHindustan Unilever Ltd  Consumer Staples  Equity  0. 61%\n\nCrompton Greaves Consumer Electricals Ltd  Consumer Discretionary  Equity  0. 61%\n\nBirla Corporation Ltd  Materials  Equity  0. 58%\n\nThe Ramco Cements Ltd  Materials  Equity  0. 48%\n\nWestlife Development Ltd  Consumer Discretionary  Equity  0. 46%\n\nSuven Pharmaceuticals Ltd  Healthcare  Equity  0. 44%\n\nCyient Ltd  Technology  Equity  0. 38%\n\nTeamLease Services Ltd  Industrials  Equity  0. 36%\n\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7. 38 FV RS 100  Entities  GOI Securities  0. 33%\n\nPopular Vehicles And Services Ltd.  Consumer Discretionary  Equity  0. 32%\n\nMedi Assist Healthcare Services Ltd.  Industrials  Equity  0. 31%\n\nDelhivery Ltd  Industrials  Equity  0. 30%\n\nAnthem Biosciences Ltd.  Healthcare  Equity  0. 24%\n\nBajaj Electricals Ltd  Consumer Discretionary  Equity  0. 23%\n\nJK Lakshmi Cement Ltd  Materials  Equity  0. 16%\n\nNet Payables  Unspecified  Net Payables  -0. 02%\n\nName  3Y  5Y  10Y  All\n\nFund returns  16. 0%  16. 5%  14. 2%  14. 1%\n\nCategory average (Equity ELSS)  16. 4%  16. 5%  14. 0%  --\n\nRank (Equity ELSS)  11  4  13  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Motilal Oswal ELSS Tax Saver Fund Direct Growth  5. 97%  23. 76%  4,663. 26\n\n SBI ELSS Tax Saver Fund Direct Growth  -1. 76%  18. 63%  30,955. 01\n\n WhiteOak Capital ELSS Tax Saver Fund Direct Growth  0. 29%  18. 42%  455. 66\n\n HDFC ELSS Tax Saver Fund Direct Plan Growth  -3. 85%  16. 01%  15,366. 50\n\n Parag Parikh ELSS Tax Saver Fund Direct Growth  -8. 16%  12. 30%  5,539. 59\n\nCompare",
+  "cleaned_text": "HDFC ELSS Tax Saver Fund Direct Plan Growth\n\n Holdings (59)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n AKAmar KalkundrikarDec 2025- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC ELSS Tax Saver Fund Direct Plan Growth\n\n AboutHDFC ELSS Tax Saver Fund Direct Plan Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0. 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,600   -4. 00%\n\n3 years  ₹1,80,000  ₹1,95,390   8. 55%\n\n5 years  ₹3,00,000  ₹4,11,324   37. 11%\n\n10 years  ₹6,00,000  ₹12,71,013   111. 84%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  8. 99%\n\nHDFC Bank Ltd  Financial  Equity  8. 04%\n\nAxis Bank Ltd  Financial  Equity  7. 42%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  4. 70%\n\nBharti Airtel Ltd  Technology  Equity  4. 51%\n\nState Bank of India  Financial  Equity  4. 39%\n\nKotak Mahindra Bank Ltd  Financial  Equity  4. 38%\n\nSBI Life Insurance Company Ltd  Financial  Equity  3. 57%\n\nReliance Industries Ltd  Energy  Utilities  Equity  2. 86%\n\nHCL Technologies Ltd  Technology  Equity  2. 75%\n\nHyundai Motor India Ltd.  Consumer Discretionary  Equity  2. 50%\n\nRepo  Unspecified  Repo  2. 47%\n\nPower Grid Corporation of India Ltd  Energy  Utilities  Equity  2. 08%\n\nBajaj Auto Ltd  Consumer Discretionary  Equity  2. 04%\n\nTata Steel Ltd  Materials  Equity  2. 03%\n\nInfosys Ltd  Technology  Equity  2. 01%\n\nZomato Ltd  Technology  Equity  1. 83%\n\nBritannia Industries Ltd  Consumer Staples  Equity  1. 69%\n\nLarsen  Toubro Ltd  Industrials  Equity  1. 67%\n\nJSW Steel Ltd  Materials  Equity  1. 66%\n\nApollo Hospitals Enterprise Ltd  Healthcare  Equity  1. 46%\n\nBosch Ltd  Consumer Discretionary  Equity  1. 19%\n\nDr. Lal Pathlabs Ltd  Healthcare  Equity  1. 19%\n\nMetropolis Healthcare Ltd  Healthcare  Equity  1. 16%\n\nICICI Lombard General Insurance Company Ltd  Financial  Equity  1. 15%\n\nInterglobe Aviation Ltd  Industrials  Equity  1. 15%\n\nKarur Vysya Bank Ltd  Financial  Equity  1. 13%\n\nCipla Ltd  Healthcare  Equity  1. 12%\n\nAlkem Laboratories Ltd  Healthcare  Equity  1. 11%\n\nJubilant FoodWorks Ltd  Consumer Discretionary  Equity  1. 10%\n\nMphasis Ltd  Technology  Equity  1. 03%\n\nLupin Ltd  Healthcare  Equity  1. 03%\n\nStar Health  Allied Insurance Co. Ltd  Financial  Equity  1. 03%\n\nTech Mahindra Ltd  Technology  Equity  0. 97%\n\nEscorts Kubota Ltd  Industrials  Equity  0. 93%\n\nUnited Spirits Ltd  Consumer Staples  Equity  0. 88%\n\nGodrej Consumer Products Ltd  Consumer Staples  Equity  0. 87%\n\nPB Fintech Ltd  Financial  Equity  0. 87%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  0. 84%\n\nHavells India Ltd  Consumer Discretionary  Equity  0. 82%\n\nHindustan Unilever Ltd  Consumer Staples  Equity  0. 77%\n\nICICI Prudential Asset Management Company Ltd.  Financial  Equity  0. 76%\n\nMahindra  Mahindra Ltd  Consumer Discretionary  Equity  0. 69%\n\nBirla Corporation Ltd  Materials  Equity  0. 65%\n\nCrompton Greaves Consumer Electricals Ltd  Consumer Discretionary  Equity  0. 64%\n\nThe Ramco Cements Ltd  Materials  Equity  0. 45%\n\nWestlife Development Ltd  Consumer Discretionary  Equity  0. 44%\n\nCyient Ltd  Technology  Equity  0. 40%\n\nTeamLease Services Ltd  Industrials  Equity  0. 40%\n\nSuven Pharmaceuticals Ltd  Healthcare  Equity  0. 40%\n\nGOVERNMENT OF INDIA 31719 GOI 20JU27 7. 38 FV RS 100  Entities  GOI Securities  0. 33%\n\nPopular Vehicles And Services Ltd.  Consumer Discretionary  Equity  0. 31%\n\nDelhivery Ltd  Industrials  Equity  0. 29%\n\nAnthem Biosciences Ltd.  Healthcare  Equity  0. 24%\n\nMedi Assist Healthcare Services Ltd.  Industrials  Equity  0. 22%\n\nBajaj Electricals Ltd  Consumer Discretionary  Equity  0. 19%\n\nJK Lakshmi Cement Ltd  Materials  Equity  0. 15%\n\nTata Motors Ltd  Industrials  Equity  0. 15%\n\nNet Payables  Unspecified  Net Payables  -0. 10%\n\nName  3Y  5Y  10Y  All\n\nFund returns  16. 0%  16. 5%  14. 2%  14. 1%\n\nCategory average (Equity ELSS)  16. 4%  16. 5%  14. 0%  --\n\nRank (Equity ELSS)  11  4  13  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Motilal Oswal ELSS Tax Saver Fund Direct Growth  5. 97%  23. 76%  4,663. 26\n\n SBI ELSS Tax Saver Fund Direct Growth  -1. 76%  18. 63%  30,955. 01\n\n WhiteOak Capital ELSS Tax Saver Fund Direct Growth  0. 29%  18. 42%  455. 66\n\n HDFC ELSS Tax Saver Fund Direct Plan Growth  -3. 85%  16. 01%  15,366. 50\n\n Parag Parikh ELSS Tax Saver Fund Direct Growth  -8. 16%  12. 30%  5,539. 59\n\nCompare",
   "statistics": {
-    "original_size": 387074,
-    "cleaned_size": 4547,
+    "original_size": 388138,
+    "cleaned_size": 4593,
     "headings_count": 27,
     "paragraphs_count": 6,
     "lists_count": 0,
