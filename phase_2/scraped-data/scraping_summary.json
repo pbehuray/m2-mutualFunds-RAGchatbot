@@ -3,13 +3,13 @@
   "successful": 5,
   "failed": 0,
   "from_cache": 0,
-  "scraped_at": "2026-07-12T07:08:48.853613",
+  "scraped_at": "2026-07-13T07:49:12.065061",
   "results": [
     {
       "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-07-12T07:08:46.295996",
+      "timestamp": "2026-07-13T07:49:09.115549",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_mid_cap_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_mid_cap_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_mid_cap_fund_direct_growth.json",
@@ -28,9 +28,9 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "scraped_at": "2026-07-12T07:08:46.839434",
+        "scraped_at": "2026-07-13T07:49:09.733958",
         "status_code": 200,
-        "response_time": 0.330653,
+        "response_time": 0.351989,
         "text_length": 18857,
         "from_cache": false
       }
@@ -39,12 +39,12 @@
       "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-07-12T07:08:46.840331",
+      "timestamp": "2026-07-13T07:49:09.735223",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_equity_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_equity_fund_direct_growth.json",
       "from_cache": false,
-      "text_length": 19046,
+      "text_length": 19047,
       "metadata": {
         "title": "HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio",
         "description": "HDFC Flexi Cap Direct Plan Growth - Get latest NAV, SIP Returns & Rankings, Ratings, Fund Performance, Portfolio, Expense Ratio, Holding Analysis, and Peers.\n  Invest in HDFC Flexi Cap Direct Plan-Growth Online with Groww.",
@@ -58,10 +58,10 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "scraped_at": "2026-07-12T07:08:47.409708",
+        "scraped_at": "2026-07-13T07:49:10.310234",
         "status_code": 200,
-        "response_time": 0.368613,
-        "text_length": 19046,
+        "response_time": 0.320726,
+        "text_length": 19047,
         "from_cache": false
       }
     },
@@ -69,7 +69,7 @@
       "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-07-12T07:08:47.410519",
+      "timestamp": "2026-07-13T07:49:10.311371",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_focused_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_focused_fund_direct_growth.json",
@@ -88,9 +88,9 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "scraped_at": "2026-07-12T07:08:47.884159",
+        "scraped_at": "2026-07-13T07:49:10.943279",
         "status_code": 200,
-        "response_time": 0.283971,
+        "response_time": 0.404446,
         "text_length": 17053,
         "from_cache": false
       }
@@ -99,7 +99,7 @@
       "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-07-12T07:08:47.884929",
+      "timestamp": "2026-07-13T07:49:10.944527",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_elss_tax_saver_fund_direct_plan_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_elss_tax_saver_fund_direct_plan_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_elss_tax_saver_fund_direct_plan_growth.json",
@@ -118,9 +118,9 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "scraped_at": "2026-07-12T07:08:48.390897",
+        "scraped_at": "2026-07-13T07:49:11.524928",
         "status_code": 200,
-        "response_time": 0.316692,
+        "response_time": 0.332299,
         "text_length": 18068,
         "from_cache": false
       }
@@ -129,7 +129,7 @@
       "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-07-12T07:08:48.391634",
+      "timestamp": "2026-07-13T07:49:11.525978",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_large_cap_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_large_cap_fund_direct_growth.json",
@@ -148,9 +148,9 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "scraped_at": "2026-07-12T07:08:48.852920",
+        "scraped_at": "2026-07-13T07:49:12.064164",
         "status_code": 200,
-        "response_time": 0.284306,
+        "response_time": 0.314849,
         "text_length": 17540,
         "from_cache": false
       }
