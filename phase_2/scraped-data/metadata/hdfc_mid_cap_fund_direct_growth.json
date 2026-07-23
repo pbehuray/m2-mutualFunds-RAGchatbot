@@ -11,9 +11,9 @@
     "og:site_name": "Groww"
   },
   "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-  "scraped_at": "2026-07-22T07:09:52.194804",
+  "scraped_at": "2026-07-23T07:05:26.048383",
   "status_code": 200,
-  "response_time": 0.332143,
+  "response_time": 0.538063,
   "text_length": 18898,
-  "from_cache": false
+  "from_cache": true
 }
