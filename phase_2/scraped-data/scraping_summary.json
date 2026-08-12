@@ -2,19 +2,19 @@
   "total_urls": 5,
   "successful": 5,
   "failed": 0,
-  "from_cache": 5,
-  "scraped_at": "2026-08-11T05:36:13.650519",
+  "from_cache": 0,
+  "scraped_at": "2026-08-12T05:54:56.298342",
   "results": [
     {
       "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-08-11T05:36:11.631343",
+      "timestamp": "2026-08-12T05:54:53.041932",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_mid_cap_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_mid_cap_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_mid_cap_fund_direct_growth.json",
-      "from_cache": true,
-      "text_length": 18954,
+      "from_cache": false,
+      "text_length": 18960,
       "metadata": {
         "title": "HDFC Mid Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio",
         "description": "HDFC Mid Cap Fund Direct Growth - Get latest NAV, SIP Returns & Rankings, Ratings, Fund Performance, Portfolio, Expense Ratio, Holding Analysis, and Peers.\n  Invest in HDFC Mid Cap Fund Online with Groww.",
@@ -28,23 +28,23 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
-        "scraped_at": "2026-08-11T05:36:11.899363",
+        "scraped_at": "2026-08-12T05:54:53.655435",
         "status_code": 200,
-        "response_time": 0.074177,
-        "text_length": 18954,
-        "from_cache": true
+        "response_time": 0.346985,
+        "text_length": 18960,
+        "from_cache": false
       }
     },
     {
       "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-08-11T05:36:11.899857",
+      "timestamp": "2026-08-12T05:54:53.656855",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_equity_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_equity_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_equity_fund_direct_growth.json",
-      "from_cache": true,
-      "text_length": 19141,
+      "from_cache": false,
+      "text_length": 19146,
       "metadata": {
         "title": "HDFC Flexi Cap Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio",
         "description": "HDFC Flexi Cap Direct Plan Growth - Get latest NAV, SIP Returns & Rankings, Ratings, Fund Performance, Portfolio, Expense Ratio, Holding Analysis, and Peers.\n  Invest in HDFC Flexi Cap Direct Plan-Growth Online with Groww.",
@@ -58,23 +58,23 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-        "scraped_at": "2026-08-11T05:36:12.355184",
+        "scraped_at": "2026-08-12T05:54:54.313255",
         "status_code": 200,
-        "response_time": 0.286039,
-        "text_length": 19141,
-        "from_cache": true
+        "response_time": 0.431714,
+        "text_length": 19146,
+        "from_cache": false
       }
     },
     {
       "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-08-11T05:36:12.355698",
+      "timestamp": "2026-08-12T05:54:54.314647",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_focused_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_focused_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_focused_fund_direct_growth.json",
-      "from_cache": true,
-      "text_length": 17147,
+      "from_cache": false,
+      "text_length": 17153,
       "metadata": {
         "title": "HDFC Focused Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio",
         "description": "HDFC Focused Fund Direct Growth - Get latest NAV, SIP Returns & Rankings, Ratings, Fund Performance, Portfolio, Expense Ratio, Holding Analysis, and Peers.\n  Invest in HDFC Focused Fund Online with Groww.",
@@ -88,23 +88,23 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-        "scraped_at": "2026-08-11T05:36:12.886842",
+        "scraped_at": "2026-08-12T05:54:54.905345",
         "status_code": 200,
-        "response_time": 0.376418,
-        "text_length": 17147,
-        "from_cache": true
+        "response_time": 0.380337,
+        "text_length": 17153,
+        "from_cache": false
       }
     },
     {
       "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-08-11T05:36:12.887219",
+      "timestamp": "2026-08-12T05:54:54.906684",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_elss_tax_saver_fund_direct_plan_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_elss_tax_saver_fund_direct_plan_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_elss_tax_saver_fund_direct_plan_growth.json",
-      "from_cache": true,
-      "text_length": 18163,
+      "from_cache": false,
+      "text_length": 18169,
       "metadata": {
         "title": "HDFC ELSS Tax Saver Fund Direct Plan Growth - NAV, Mutual Fund Performance & Portfolio",
         "description": "HDFC ELSS Tax Saver Fund Direct Plan Growth - Get latest NAV, SIP Returns & Rankings, Ratings, Fund Performance, Portfolio, Expense Ratio, Holding Analysis, and Peers.\n  Invest in HDFC ELSS Tax Saver Fund Online with Groww.",
@@ -118,23 +118,23 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-        "scraped_at": "2026-08-11T05:36:13.460194",
+        "scraped_at": "2026-08-12T05:54:55.797240",
         "status_code": 200,
-        "response_time": 0.417512,
-        "text_length": 18163,
-        "from_cache": true
+        "response_time": 0.657889,
+        "text_length": 18169,
+        "from_cache": false
       }
     },
     {
       "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
       "success": true,
       "error": null,
-      "timestamp": "2026-08-11T05:36:13.460503",
+      "timestamp": "2026-08-12T05:54:55.798593",
       "raw_html_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
       "extracted_text_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_text/hdfc_large_cap_fund_direct_growth.txt",
       "metadata_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/metadata/hdfc_large_cap_fund_direct_growth.json",
-      "from_cache": true,
-      "text_length": 17628,
+      "from_cache": false,
+      "text_length": 17634,
       "metadata": {
         "title": "HDFC Large Cap Fund Direct Growth - NAV, Mutual Fund Performance & Portfolio",
         "description": "HDFC Large Cap Fund Direct Growth - Get latest NAV, SIP Returns & Rankings, Ratings, Fund Performance, Portfolio, Expense Ratio, Holding Analysis, and Peers.\n  Invest in HDFC Large Cap Fund Online with Groww.",
@@ -148,11 +148,11 @@
           "og:site_name": "Groww"
         },
         "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-        "scraped_at": "2026-08-11T05:36:13.650220",
+        "scraped_at": "2026-08-12T05:54:56.297022",
         "status_code": 200,
-        "response_time": 0.04087,
-        "text_length": 17628,
-        "from_cache": true
+        "response_time": 0.296358,
+        "text_length": 17634,
+        "from_cache": false
       }
     }
   ]
