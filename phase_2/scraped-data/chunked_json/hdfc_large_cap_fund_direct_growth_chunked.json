@@ -9,7 +9,7 @@
   "total_chunks": 5,
   "chunks": [
     {
-      "text": "HDFC Large Cap Fund Direct Growth\n\n Holdings (50)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n RBRahul BaijalJul 2022- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC Large Cap Fund Direct Growth\n\n AboutHDFC Large Cap Fund Direct Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,480   -4 20%\n\n3 years  ₹1,80,000  ₹1,80,236   0 13%\n\n5 years  ₹3,00,000  ₹3,59,017   19 67%\n\n10 years  ₹6,00,000  ₹10,90,018   81 67%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  10",
+      "text": "HDFC Large Cap Fund Direct Growth\n\n Holdings (50)\n\n Understand terms\n\n Understand terms\n\n Return calculator\n\n Minimum investments\n\n Returns and rankings\n\n Compare similar funds\n\n Fund management\n\n RBRahul BaijalJul 2022- PresentView details\n\n DMDhruv MuchhalJun 2023- PresentView details\n\n AboutHDFC Large Cap Fund Direct Growth\n\n AboutHDFC Large Cap Fund Direct Growth\n\n Fund house\n\n Fund house\n\n Stamp duty on investment:0 005% (from July 1st, 2020)\n\n Tax implication\n\n Investment Objective\n\n Annualised returns\n\n Absolute returns\n\n Expense ratio\n\n Tax\n\n Stamp duty\n\n1 year  ₹60,000  ₹57,320   -4 47%\n\n3 years  ₹1,80,000  ₹1,79,633   -0 20%\n\n5 years  ₹3,00,000  ₹3,57,712   19 24%\n\n10 years  ₹6,00,000  ₹10,86,022   81 00%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  10",
       "metadata": {
         "scheme_name": "Hdfc Large Cap Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
@@ -23,9 +23,9 @@
         "subchunk_id": 0,
         "chunk_index": 0,
         "total_chunks": 5,
-        "chunk_length": 797,
+        "chunk_length": 798,
         "word_count": 106,
-        "created_at": "2026-09-30T10:39:15.974005",
+        "created_at": "2026-10-01T11:07:13.280754",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -41,10 +41,10 @@
         }
       },
       "start_position": 0,
-      "end_position": 797
+      "end_position": 798
     },
     {
-      "text": "67%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  10 05%\n\nHDFC Bank Ltd  Financial  Equity  6 88%\n\nBharti Airtel Ltd  Technology  Equity  6 23%\n\nKotak Mahindra Bank Ltd  Financial  Equity  5 71%\n\nTitan Company Ltd  Consumer Discretionary  Equity  5 27%\n\nReliance Industries Ltd  Energy  Utilities  Equity  4 78%\n\nTorrent Pharmaceuticals Ltd  Healthcare  Equity  4 04%\n\nAxis Bank Ltd  Financial  Equity  3 49%\n\nBajaj Finserv Ltd  Financial  Equity  3 33%\n\nBajaj Auto Ltd  Consumer Discretionary  Equity  2 93%\n\nInfosys Ltd  Technology  Equity  2 76%\n\nLupin Ltd  Healthcare  Equity  2 53%\n\nZomato Ltd  Technology  Equity  2 49%\n\nCholamandalam Investment  Finance Company Ltd  Financial  Equity  2 44%\n\nAmbuja Cements Ltd  Materials  Equity  2 24%\n\nTata Motors Ltd  Industrials  Equity  2",
+      "text": "00%\n\nName  Sector  Instruments  Assets\n\nICICI Bank Ltd  Financial  Equity  10 05%\n\nHDFC Bank Ltd  Financial  Equity  6 88%\n\nBharti Airtel Ltd  Technology  Equity  6 23%\n\nKotak Mahindra Bank Ltd  Financial  Equity  5 71%\n\nTitan Company Ltd  Consumer Discretionary  Equity  5 27%\n\nReliance Industries Ltd  Energy  Utilities  Equity  4 78%\n\nTorrent Pharmaceuticals Ltd  Healthcare  Equity  4 04%\n\nAxis Bank Ltd  Financial  Equity  3 49%\n\nBajaj Finserv Ltd  Financial  Equity  3 33%\n\nBajaj Auto Ltd  Consumer Discretionary  Equity  2 93%\n\nInfosys Ltd  Technology  Equity  2 76%\n\nLupin Ltd  Healthcare  Equity  2 53%\n\nZomato Ltd  Technology  Equity  2 49%\n\nCholamandalam Investment  Finance Company Ltd  Financial  Equity  2 44%\n\nAmbuja Cements Ltd  Materials  Equity  2 24%\n\nTata Motors Ltd  Industrials  Equity  2",
       "metadata": {
         "scheme_name": "Hdfc Large Cap Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
@@ -60,7 +60,7 @@
         "total_chunks": 5,
         "chunk_length": 810,
         "word_count": 119,
-        "created_at": "2026-09-30T10:39:15.974052",
+        "created_at": "2026-10-01T11:07:13.280799",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -75,8 +75,8 @@
           "quality_score": 0.8
         }
       },
-      "start_position": 797,
-      "end_position": 1607
+      "start_position": 798,
+      "end_position": 1608
     },
     {
       "text": "44%\n\nAmbuja Cements Ltd  Materials  Equity  2 24%\n\nTata Motors Ltd  Industrials  Equity  2 02%\n\nLarsen  Toubro Ltd  Industrials  Equity  1 99%\n\nInterglobe Aviation Ltd  Industrials  Equity  1 97%\n\nState Bank of India  Financial  Equity  1 89%\n\nNTPC Ltd  Energy  Utilities  Equity  1 83%\n\nUnited Spirits Ltd  Consumer Staples  Equity  1 78%\n\nMax Healthcare Institute Ltd  Healthcare  Equity  1 72%\n\nMankind Pharma Ltd Healthcare  Equity  1 66%\n\nIndusind Bank Ltd  Financial  Equity  1 57%\n\nICICI Prudential Asset Management Company Ltd Financial  Equity  1 43%\n\nVishal Mega Mart Ltd Consumer Staples  Equity  1 37%\n\nHavells India Ltd  Consumer Discretionary  Equity  1 35%\n\nTata Consumer Products Ltd  Consumer Staples  Equity  1 31%\n\nSwiggy Ltd Technology  Equity  1 30%\n\nHyundai Motor India Ltd",
@@ -95,7 +95,7 @@
         "total_chunks": 5,
         "chunk_length": 795,
         "word_count": 120,
-        "created_at": "2026-09-30T10:39:15.974081",
+        "created_at": "2026-10-01T11:07:13.280829",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -110,8 +110,8 @@
           "quality_score": 0.8
         }
       },
-      "start_position": 1607,
-      "end_position": 2402
+      "start_position": 1608,
+      "end_position": 2403
     },
     {
       "text": "31%\n\nSwiggy Ltd Technology  Equity  1 30%\n\nHyundai Motor India Ltd Consumer Discretionary  Equity  1 21%\n\nRepo  Unspecified  Repo  1 04%\n\nEicher Motors Ltd  Consumer Discretionary  Equity  1 03%\n\nSRF Ltd  Materials  Equity  0 89%\n\nTATA CAPITAL LIMITED EQ  Financial  Equity  0 75%\n\nSBI Funds Management Ltd  Financial  Equity  0 67%\n\nDabur India Ltd  Consumer Staples  Equity  0 66%\n\nMahindra  Mahindra Ltd  Consumer Discretionary  Equity  0 65%\n\nCG Power  Industrial Solutions Ltd  Industrials  Equity  0 62%\n\nGOVERNMENT OF INDIA 36185 GOI 07JL40 6 68 FV RS 100  Entities  GOI Securities  0 48%\n\nBharat Electronics Ltd  Industrials  Equity  0 47%\n\nLife Insurance Corporation of India  Financial  Equity  0 41%\n\nTata Motors Ltd  Consumer Discretionary  Equity  0 41%\n\nDLF Ltd  Real Estate  Equity  0",
@@ -130,7 +130,7 @@
         "total_chunks": 5,
         "chunk_length": 799,
         "word_count": 122,
-        "created_at": "2026-09-30T10:39:15.974106",
+        "created_at": "2026-10-01T11:07:13.280854",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -145,11 +145,11 @@
           "quality_score": 0.8
         }
       },
-      "start_position": 2402,
-      "end_position": 3201
+      "start_position": 2403,
+      "end_position": 3202
     },
     {
-      "text": "41%\n\nTata Motors Ltd  Consumer Discretionary  Equity  0 41%\n\nDLF Ltd  Real Estate  Equity  0 37%\n\nCummins India Ltd  Industrials  Equity  0 29%\n\nBillionbrains Garage Ventures Ltd Financial  Equity  0 28%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  0 24%\n\nHindalco Industries Ltd  Materials  Equity  0 23%\n\nSBI Life Insurance Company Ltd  Financial  Equity  0 17%\n\nNet Payables  Unspecified  Net Payables  -0 10%\n\nName  3Y  5Y  10Y  All\n\nFund returns  7 8%  9 7%  12 1%  12 6%\n\nCategory average (Equity Large Cap)  10 3%  8 7%  11 9%  12 7%\n\nRank (Equity Large Cap)  38  19  11  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Invesco India Large Cap Fund Direct Growth  1 57%  13 01%  2,020 76\n\n Bandhan Large Cap Fund Direct Growth  -0 67%  11 89%  2,179 99\n\n Nippon India Large Cap Fund Direct Growth  -5 59%  9",
+      "text": "41%\n\nTata Motors Ltd  Consumer Discretionary  Equity  0 41%\n\nDLF Ltd  Real Estate  Equity  0 37%\n\nCummins India Ltd  Industrials  Equity  0 29%\n\nBillionbrains Garage Ventures Ltd Financial  Equity  0 28%\n\nMaruti Suzuki India Ltd  Consumer Discretionary  Equity  0 24%\n\nHindalco Industries Ltd  Materials  Equity  0 23%\n\nSBI Life Insurance Company Ltd  Financial  Equity  0 17%\n\nNet Payables  Unspecified  Net Payables  -0 10%\n\nName  3Y  5Y  10Y  All\n\nFund returns  7 6%  9 7%  12 0%  12 5%\n\nCategory average (Equity Large Cap)  10 3%  8 7%  11 9%  12 7%\n\nRank (Equity Large Cap)  45  21  14  --\n\n Name  1Y  3Y  Fund Size(Cr)\n\n Invesco India Large Cap Fund Direct Growth  1 44%  12 92%  2,020 76\n\n Bandhan Large Cap Fund Direct Growth  -0 75%  11 77%  2,179 99\n\n Nippon India Large Cap Fund Direct Growth  -5 61%  9",
       "metadata": {
         "scheme_name": "Hdfc Large Cap Fund Direct Growth",
         "source_file": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
@@ -165,7 +165,7 @@
         "total_chunks": 5,
         "chunk_length": 814,
         "word_count": 139,
-        "created_at": "2026-09-30T10:39:15.974130",
+        "created_at": "2026-10-01T11:07:13.280878",
         "source_url": "/home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/raw_html/hdfc_large_cap_fund_direct_growth.html",
         "document_type": "json",
         "source_domain": "",
@@ -180,8 +180,8 @@
           "quality_score": 0.8
         }
       },
-      "start_position": 3201,
-      "end_position": 4015
+      "start_position": 3202,
+      "end_position": 4016
     }
   ],
   "validation_summary": {
