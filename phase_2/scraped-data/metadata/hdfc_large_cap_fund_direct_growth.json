@@ -11,9 +11,9 @@
     "og:site_name": "Groww"
   },
   "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
-  "scraped_at": "2026-10-14T09:40:18.820750",
+  "scraped_at": "2026-10-15T09:18:41.187853",
   "status_code": 200,
-  "response_time": 0.372982,
+  "response_time": 0.308862,
   "text_length": 17565,
-  "from_cache": false
+  "from_cache": true
 }
