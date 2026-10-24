@@ -11,9 +11,9 @@
     "og:site_name": "Groww"
   },
   "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
-  "scraped_at": "2026-10-23T09:29:33.072073",
+  "scraped_at": "2026-10-24T09:01:08.325676",
   "status_code": 200,
-  "response_time": 0.23816,
+  "response_time": 0.336534,
   "text_length": 16964,
-  "from_cache": true
+  "from_cache": false
 }
