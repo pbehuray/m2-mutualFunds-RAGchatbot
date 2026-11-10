@@ -11,9 +11,9 @@
     "og:site_name": "Groww"
   },
   "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
-  "scraped_at": "2026-11-09T13:13:35.370921",
+  "scraped_at": "2026-11-10T12:53:48.054260",
   "status_code": 200,
-  "response_time": 0.469871,
+  "response_time": 0.461457,
   "text_length": 17729,
-  "from_cache": false
+  "from_cache": true
 }
