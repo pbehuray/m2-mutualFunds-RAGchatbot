@@ -1,0 +1,84 @@
+2026-11-16 13:02:47,003 [INFO] ============================================================
+2026-11-16 13:02:47,003 [INFO] STEP 1/4: Web Scraping
+2026-11-16 13:02:47,003 [INFO] ============================================================
+2026-11-16 13:02:47,003 [INFO] --- Starting: Scraper ---
+2026-11-16 13:02:49,903 [INFO] Scraper completed in 2.9s
+2026-11-16 13:02:49,904 [INFO]   Total URLs: 5
+2026-11-16 13:02:49,904 [INFO]   Successful: 5
+2026-11-16 13:02:49,904 [INFO]   Failed: 0
+2026-11-16 13:02:49,904 [INFO]   From Cache: 0
+2026-11-16 13:02:49,904 [INFO]   ==================================================
+2026-11-16 13:02:49,904 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+2026-11-16 13:02:49,904 [INFO]     Text length: 19157 characters
+2026-11-16 13:02:49,904 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+2026-11-16 13:02:49,904 [INFO]     Text length: 19638 characters
+2026-11-16 13:02:49,904 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
+2026-11-16 13:02:49,904 [INFO]     Text length: 16954 characters
+2026-11-16 13:02:49,904 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+2026-11-16 13:02:49,904 [INFO]     Text length: 17721 characters
+2026-11-16 13:02:49,904 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+2026-11-16 13:02:49,904 [INFO]     Text length: 17504 characters
+2026-11-16 13:02:49,904 [INFO] ============================================================
+2026-11-16 13:02:49,904 [INFO] STEP 2/4: Content Extraction
+2026-11-16 13:02:49,904 [INFO] ============================================================
+2026-11-16 13:02:49,904 [INFO] --- Starting: Content Extraction ---
+2026-11-16 13:02:50,238 [INFO] Content Extraction completed in 0.33s
+2026-11-16 13:02:50,239 [INFO]     Saved: hdfc_elss_tax_saver_fund_direct_plan_growth.json
+2026-11-16 13:02:50,239 [INFO]     Size: 4329 characters
+2026-11-16 13:02:50,239 [INFO]   Processing: hdfc_focused_fund_direct_growth.html
+2026-11-16 13:02:50,239 [INFO]     Saved: hdfc_focused_fund_direct_growth.json
+2026-11-16 13:02:50,239 [INFO]     Size: 3055 characters
+2026-11-16 13:02:50,239 [INFO]   
+2026-11-16 13:02:50,239 [INFO]   ============================================================
+2026-11-16 13:02:50,239 [INFO]   Processing Complete
+2026-11-16 13:02:50,239 [INFO]   ============================================================
+2026-11-16 13:02:50,239 [INFO]   Total files processed: 5
+2026-11-16 13:02:50,239 [INFO]   Total original size: 2,371,353 characters
+2026-11-16 13:02:50,239 [INFO]   Total cleaned size: 22,992 characters
+2026-11-16 13:02:50,239 [INFO]   Reduction: 99.0%
+2026-11-16 13:02:50,239 [INFO]   
+2026-11-16 13:02:50,239 [INFO]   Extracted JSON files saved to: /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_json
+2026-11-16 13:02:50,239 [INFO] ============================================================
+2026-11-16 13:02:50,239 [INFO] STEP 3/4: Document Chunking
+2026-11-16 13:02:50,239 [INFO] ============================================================
+2026-11-16 13:02:50,239 [INFO] --- Starting: Chunking ---
+2026-11-16 13:02:50,278 [INFO] Chunking completed in 0.04s
+2026-11-16 13:02:50,278 [INFO]     Saved: hdfc_mid_cap_fund_direct_growth_chunked.json
+2026-11-16 13:02:50,278 [INFO]     Chunks: 7
+2026-11-16 13:02:50,278 [INFO]     Valid chunks: 0
+2026-11-16 13:02:50,278 [INFO]     Avg quality: 0.80
+2026-11-16 13:02:50,278 [INFO]   
+2026-11-16 13:02:50,278 [INFO]   ============================================================
+2026-11-16 13:02:50,278 [INFO]   Processing Complete
+2026-11-16 13:02:50,278 [INFO]   ============================================================
+2026-11-16 13:02:50,278 [INFO]   Total files processed: 5
+2026-11-16 13:02:50,278 [INFO]   Total chunks generated: 28
+2026-11-16 13:02:50,278 [INFO]   Valid chunks: 1
+2026-11-16 13:02:50,278 [INFO]   Invalid chunks: 27
+2026-11-16 13:02:50,278 [INFO]   Average quality score: 0.80
+2026-11-16 13:02:50,278 [INFO]   
+2026-11-16 13:02:50,278 [INFO]   Chunked JSON files saved to: /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/chunked_json
+2026-11-16 13:02:50,278 [INFO] ============================================================
+2026-11-16 13:02:50,278 [INFO] STEP 4/4: Embedding Generation
+2026-11-16 13:02:50,278 [INFO] ============================================================
+2026-11-16 13:02:50,278 [INFO] --- Starting: Embedding ---
+2026-11-16 13:02:51,454 [INFO] Embedding completed in 1.18s
+2026-11-16 13:02:51,455 [INFO]   Processing: hdfc_elss_tax_saver_fund_direct_plan_growth_chunked.json
+2026-11-16 13:02:51,455 [INFO]     Chunks processed: 5
+2026-11-16 13:02:51,455 [INFO]     Embedding dim: 384
+2026-11-16 13:02:51,455 [INFO]   Processing: hdfc_focused_fund_direct_growth_chunked.json
+2026-11-16 13:02:51,455 [INFO]     Chunks processed: 4
+2026-11-16 13:02:51,455 [INFO]     Embedding dim: 384
+2026-11-16 13:02:51,455 [INFO]   
+2026-11-16 13:02:51,455 [INFO]   ============================================================
+2026-11-16 13:02:51,455 [INFO]   Processing Complete
+2026-11-16 13:02:51,455 [INFO]   ============================================================
+2026-11-16 13:02:51,455 [INFO]   Files processed: 5
+2026-11-16 13:02:51,455 [INFO]   Total chunks indexed: 28
+2026-11-16 13:02:51,455 [INFO]   Total vectors in DB: 30
+2026-11-16 13:02:51,455 [INFO]   
+2026-11-16 13:02:51,455 [INFO]   Vector database saved to: /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_3/vector_db
+2026-11-16 13:02:51,455 [INFO] Report saved to /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/logs/scheduler_report.json
+2026-11-16 13:02:51,455 [INFO] ============================================================
+2026-11-16 13:02:51,455 [INFO] ALL STEPS COMPLETE
+2026-11-16 13:02:51,455 [INFO] ============================================================
