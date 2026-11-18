@@ -1,0 +1,84 @@
+2026-11-18 13:19:05,591 [INFO] ============================================================
+2026-11-18 13:19:05,592 [INFO] STEP 1/4: Web Scraping
+2026-11-18 13:19:05,592 [INFO] ============================================================
+2026-11-18 13:19:05,592 [INFO] --- Starting: Scraper ---
+2026-11-18 13:19:08,644 [INFO] Scraper completed in 3.05s
+2026-11-18 13:19:08,644 [INFO]   Total URLs: 5
+2026-11-18 13:19:08,644 [INFO]   Successful: 5
+2026-11-18 13:19:08,645 [INFO]   Failed: 0
+2026-11-18 13:19:08,645 [INFO]   From Cache: 5
+2026-11-18 13:19:08,645 [INFO]   ==================================================
+2026-11-18 13:19:08,645 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+2026-11-18 13:19:08,645 [INFO]     Text length: 19155 characters
+2026-11-18 13:19:08,645 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+2026-11-18 13:19:08,645 [INFO]     Text length: 19636 characters
+2026-11-18 13:19:08,645 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
+2026-11-18 13:19:08,645 [INFO]     Text length: 16953 characters
+2026-11-18 13:19:08,645 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+2026-11-18 13:19:08,645 [INFO]     Text length: 17720 characters
+2026-11-18 13:19:08,645 [INFO]   ✓ https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+2026-11-18 13:19:08,645 [INFO]     Text length: 17500 characters
+2026-11-18 13:19:08,645 [INFO] ============================================================
+2026-11-18 13:19:08,645 [INFO] STEP 2/4: Content Extraction
+2026-11-18 13:19:08,645 [INFO] ============================================================
+2026-11-18 13:19:08,645 [INFO] --- Starting: Content Extraction ---
+2026-11-18 13:19:09,197 [INFO] Content Extraction completed in 0.55s
+2026-11-18 13:19:09,197 [INFO]     Saved: hdfc_equity_fund_direct_growth.json
+2026-11-18 13:19:09,197 [INFO]     Size: 6063 characters
+2026-11-18 13:19:09,197 [INFO]   Processing: hdfc_large_cap_fund_direct_growth.html
+2026-11-18 13:19:09,197 [INFO]     Saved: hdfc_large_cap_fund_direct_growth.json
+2026-11-18 13:19:09,197 [INFO]     Size: 3805 characters
+2026-11-18 13:19:09,197 [INFO]   
+2026-11-18 13:19:09,197 [INFO]   ============================================================
+2026-11-18 13:19:09,197 [INFO]   Processing Complete
+2026-11-18 13:19:09,197 [INFO]   ============================================================
+2026-11-18 13:19:09,197 [INFO]   Total files processed: 5
+2026-11-18 13:19:09,197 [INFO]   Total original size: 2,371,529 characters
+2026-11-18 13:19:09,197 [INFO]   Total cleaned size: 22,987 characters
+2026-11-18 13:19:09,197 [INFO]   Reduction: 99.0%
+2026-11-18 13:19:09,197 [INFO]   
+2026-11-18 13:19:09,197 [INFO]   Extracted JSON files saved to: /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/extracted_json
+2026-11-18 13:19:09,198 [INFO] ============================================================
+2026-11-18 13:19:09,198 [INFO] STEP 3/4: Document Chunking
+2026-11-18 13:19:09,198 [INFO] ============================================================
+2026-11-18 13:19:09,198 [INFO] --- Starting: Chunking ---
+2026-11-18 13:19:09,253 [INFO] Chunking completed in 0.05s
+2026-11-18 13:19:09,253 [INFO]     Saved: hdfc_equity_fund_direct_growth_chunked.json
+2026-11-18 13:19:09,253 [INFO]     Chunks: 8
+2026-11-18 13:19:09,253 [INFO]     Valid chunks: 1
+2026-11-18 13:19:09,253 [INFO]     Avg quality: 0.82
+2026-11-18 13:19:09,253 [INFO]   
+2026-11-18 13:19:09,253 [INFO]   ============================================================
+2026-11-18 13:19:09,253 [INFO]   Processing Complete
+2026-11-18 13:19:09,253 [INFO]   ============================================================
+2026-11-18 13:19:09,253 [INFO]   Total files processed: 5
+2026-11-18 13:19:09,253 [INFO]   Total chunks generated: 28
+2026-11-18 13:19:09,253 [INFO]   Valid chunks: 1
+2026-11-18 13:19:09,253 [INFO]   Invalid chunks: 27
+2026-11-18 13:19:09,253 [INFO]   Average quality score: 0.81
+2026-11-18 13:19:09,253 [INFO]   
+2026-11-18 13:19:09,254 [INFO]   Chunked JSON files saved to: /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_2/scraped-data/chunked_json
+2026-11-18 13:19:09,254 [INFO] ============================================================
+2026-11-18 13:19:09,254 [INFO] STEP 4/4: Embedding Generation
+2026-11-18 13:19:09,254 [INFO] ============================================================
+2026-11-18 13:19:09,254 [INFO] --- Starting: Embedding ---
+2026-11-18 13:19:10,308 [INFO] Embedding completed in 1.05s
+2026-11-18 13:19:10,308 [INFO]   Processing: hdfc_mid_cap_fund_direct_growth_chunked.json
+2026-11-18 13:19:10,308 [INFO]     Chunks processed: 7
+2026-11-18 13:19:10,308 [INFO]     Embedding dim: 384
+2026-11-18 13:19:10,309 [INFO]   Processing: hdfc_large_cap_fund_direct_growth_chunked.json
+2026-11-18 13:19:10,309 [INFO]     Chunks processed: 4
+2026-11-18 13:19:10,309 [INFO]     Embedding dim: 384
+2026-11-18 13:19:10,309 [INFO]   
+2026-11-18 13:19:10,309 [INFO]   ============================================================
+2026-11-18 13:19:10,309 [INFO]   Processing Complete
+2026-11-18 13:19:10,309 [INFO]   ============================================================
+2026-11-18 13:19:10,309 [INFO]   Files processed: 5
+2026-11-18 13:19:10,309 [INFO]   Total chunks indexed: 28
+2026-11-18 13:19:10,309 [INFO]   Total vectors in DB: 30
+2026-11-18 13:19:10,309 [INFO]   
+2026-11-18 13:19:10,309 [INFO]   Vector database saved to: /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/phase_3/vector_db
+2026-11-18 13:19:10,310 [INFO] Report saved to /home/runner/work/m2-mutualFunds-RAGchatbot/m2-mutualFunds-RAGchatbot/logs/scheduler_report.json
+2026-11-18 13:19:10,310 [INFO] ============================================================
+2026-11-18 13:19:10,310 [INFO] ALL STEPS COMPLETE
+2026-11-18 13:19:10,310 [INFO] ============================================================
