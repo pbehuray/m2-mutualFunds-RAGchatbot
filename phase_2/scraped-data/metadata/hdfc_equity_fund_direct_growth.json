@@ -11,9 +11,9 @@
     "og:site_name": "Groww"
   },
   "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
-  "scraped_at": "2026-11-18T13:19:07.036867",
+  "scraped_at": "2026-11-19T13:43:11.201081",
   "status_code": 200,
-  "response_time": 0.482688,
-  "text_length": 19636,
-  "from_cache": true
+  "response_time": 0.413452,
+  "text_length": 19637,
+  "from_cache": false
 }
